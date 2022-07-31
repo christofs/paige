@@ -1,0 +1,487 @@
+decade,year,number,Giraud/Clin-Lalande,author,title,exclusion,words (K),mode,temporality,characters,truth posture,truth place,genre,type
+1660s,1668,1,Y,Villedieu,Lettres et billets galants ,,15,rw,con,somebodies,,,L1,1
+1660s,1669,1,Y,An ,"Lettres portugaises, seconde partie",length,[7],,,,,,,
+1660s,1669,2,Y,An,Réponses aux Lettres portugaises traduites en français,sequel,[11],,,,,,,
+1660s,1669,3,Y,An,Réponses aux Lettres portugaises,sequel,,,,,,,,
+1660s,1669,4,N,Boursault,"Lettres de respect, d'obligation, et d'amour",,,,,,,,AN,
+1660s,1669,5,Y,Guilleragues,Lettres portugaises,,10,rw,con,nobodies,fact,pref,L1,1
+1670s,1671,1,Y,[Ponat],Oeuvres diverses. Lettres de l'autre monde. Responses. Lettres galantes. Responses [...] par M.L.C.D.P,collection,,,,,,,,
+1670s,1671,2,N,La Gravette de Mayolas,Lettres de Cliante à Célidie,collection,,,,,,,,
+1670s,1672,1,Y,Le Pays,Nouvelles oeuvres,letter collection,,,,,,,,
+1670s,1672,2,Y,anonyme,Lettres galantes D.M.,letter collection,,,,,,,,
+1670s,1674,1,Y,Villedieu,Le Portefeuille,,14,rw,con,nobodies,fact,pref,L2,1
+1670s,1675,1,Y,anonyme,Lettres d'Emilie (escrites en prose et en vers),letter collection,,,,,,,,
+1670s,1679,1,Y,[Courtilz de Sandras],"Nouveau Recueil de lettres et billets galands, avec leurs responses sur divers sujets",letter collection,,,,,,,,
+1680s,1682,1,Y,[Pradon],"Le Commerce galant, ou Lettres tendres et galantes de la jeune Iris et de Timandre",,37,rw,con,nobodies,fact,pref,L1,2
+1680s,1683,1,Y,Fontenelle,Lettres nouvelles et galantes de Mr le Chevalier d'Her***,letter collection,,,,,,,,
+1680s,1683,2,Y,Girault de Sainville,"Lettres galantes, billets tendres et reponses",letter collection,,,,,,,,
+1680s,1683,3,Y,Mainville,Du Bonheur et du malheur du mariage [...],letter collection,,,,,,,,
+1680s,1684,1,Y,Furetière,"Essais de lettres familieres sur toutes sortes de sujets, avec un discours sur l'Art epistolaire et quelques remarques sur la langue françoise",letter collection,,,,,,,,
+1680s,1689,1,Y,[Ferrand],Histoire nouvelle des amours de la jeune Belise et de Cleante,,,,,,,,AN,
+1680s,1689,2,Y,Milleran,"Lettres familieres, galantes et autres sur toutes sortes de sujets. Avec leurs reponses [...]",letter collection,,,,,,,,
+1680s,1689,3,Y,Richelet,Les plus belles lettres des meilleurs auteurs français,letter collection,,,,,,,,
+1690s,1693,1,Y,anonyme,"Le Courrier galant, dedié à Madame la Marquise D***",periodical,,,,,,,,
+1690s,1695,1,Y,[Lesage],Lettres galantes d'Aristenete,translation,,,,,,,,
+1690s,1695,2,Y,anonyme,"Les Amours d'une belle Angloise, ou la vie et les Avantures de la jeune Olinde. Ecrites par elle-mesme en forme de lettres à un chevalier de ses amis",,53,rw,con,nobodies,fact,pref,L1,Emem
+1690s,1696,1,Y,Milleran,"Les plus belles lettres des meilleurs auteurs françois, par le sieur P. Richelet, augmentées de tous les titres dont on qualifie toutes sortes de personnes",letter collection,,,,,,,,
+1690s,1697,1,Y,[Bordelon],"Les Malades de belle humeur, ou Lettres divertissantes écrites de Chandray ",,,,,,,,O2,1
+1690s,1697,2,Y,Boursault,Lettres nouvelles de M. Boursault... avec sept lettres amoureuses d'une dame à un cavalier,,,,,,,,AN,
+1690s,1697,3,Y,Bussy,Lettres de messire Roger de Rabutin comte de Bussy,letter collection,,,,,,,,
+1690s,1698,1,Y,Richelet,"Les Plus Belles Lettres françoises sur toutes sortes de sujets, tirées des meilleurs auteurs, avec des notes",letter collection,,,,,,,,
+1690s,1699,1,N,An,"La Religieuse pénitente, nouvelle d’Artois, avec qqs lettres que l’on croit être de l’Auteur de cette Histoire...",,,,,,,,AN,
+1690s,1699,2,Y,coll. (Dubois),"Recueil de Lettres galantes et amoureuses d'Heloïse a Abailard, d'une Religieuse portugaise au chevalier de ***, avec celles de Cleante et de Belise et leurs reponses. Le tout nouvellement recueilli et compilé",collection,,,,,,,,
+1690s,1700,1,N,Freschot,Relation historique de l'amour de l'empereur du Maroc pour Madame la princesse douairière de Conty,,30,rw,con,somebodies,,,X,1
+1690s,1700,2,Y,[Grimarest],Commerce de lettres curieuses et savantes,letter collection,,,,,,,,
+1700s,1704,1,Y,[Du Noyer],Lettres historiques et galantes de deux dames de condition,,,,,,,,O2,2
+1700s,1706,1,N,An,Relation du royaume de Candavia,length,[8],,,,,,O2f,1
+1700s,1708,1,Y,anonyme,"Lettres galantes, comiques et récréatives du Sr de ***, meslées de descriptions burlesques, de traits de morale [...]",lost,,,,,,,,
+1700s,1708,2,N,Bordelon,"Mital, ou Avantures incroyables …",,94,rw,con,nobodies,fact,pref,O1,1
+1700s,1709,1,Y,coll. (p.p. Dubois),"Nouveau recueil contenant la Vie, les Amours, les Infortunes et les Lettres d'Abailard et d'héloïse, les Lettres d'une Religieuse portugaise et du Chevalier ***, celles de Cléante et Bélise [...]",collection,,,,,,,,
+1700s,1709,2,N,Bordelon,Le voyage forcé de Becafort,,78,rw,con,nobodies,fact,pref,O1,1
+1710s,1713,1,Y,anonyme,"Lettres nouvelles, galantes, historiques, morales [...], de Madame D.",republication,,,,,,,,
+1710s,1714,1,Y,anonyme,"Les Fourberies de Vénus, ou Lettres amoureuses de C.E.A. à B.R.G. Écrites en 1708, 1710 et publiées en 1714",length,[6],,,,,,,
+1710s,1714,2,Y,anonyme,Recueil des lettres du Chevalier de ***,lost,,,,,,,,
+1710s,1719,1,Y,Marivaux,Lettres contenant une aventure,periodical,,,,,,,,
+1710s,1720,1,Y,Lebrun,Lettres de Dorante à Calliope et de Calliope à Dorante,,,,,,,,AN,
+1720s,1721,1,Y,Montesquieu,Lettres persanes,,76,rw,con,nobodies,fact,pref,OL,3
+1720s,1721,2,Y,Rémond de Saint-Mard,Lettres galantes et philosophiques de Mlle de ***,letter collection,,,,,,,,
+1720s,1723,1,Y,anonyme,Commerce de lettres entre Mlle Julie Du *** et le chevalier de S. Marcel,,34,rw,con,nobodies,fact,"pref, title",L1,2
+1720s,1724,1,Y,[Perne],Lettres galantes et poésies diverses,letter collection,,,,,,,,
+1720s,1724,2,Y,[Soyer d'Estauvelles],Nouvelles Lettres et Oeuvres galantes [...],,12,rw,con,nobodies,fict,pref,L1,2
+1720s,1725,1,Y,Bordelon,"Lettres familières, instructives et amusantes sur divers sujets",periodical,,,,,,,,
+1720s,1725,2,Y,[Duval],Lettres curieuses sur divers sujets,letter collection,,,,,,,,
+1720s,1725,3,Y,Grimarest,Recueil de lettres sur divers sujets,letter collection,,,,,,,,
+1720s,1730,1,Y,Saint-Foix,"Lettres d'une Turque à Paris, écrites à sa soeur au serrail, pour servir de supplément aux Lettres persanes",,18,rw,con,nobodies,fact equ,pref,O1f,2
+1730s,1731,1,Y,[Lévesque],Lettres et Chansons de Céphise et d'Uranie,non-plotted,,,,,,,,
+1730s,1732,1,Y,[Crébillon],Lettres de la Marquise de M*** au Comte de R***,,58,rw,con,nobodies,fact,pref,L2,1
+1730s,1732,2,Y,[La Roche],"Lettres héroïques, historiques et intéressantes sur différents sujets",,,,,,,,O2,2
+1730s,1732,3,Y,anonyme,Lettres saxonnes ou avantures d'un officier saxon,wrong year,,,,,,,,
+1730s,1732,4,Y,Saint-Foix,"Lettres de Nedim Coggia, secrétaire de l'ambassade de Mehemed Effendi à la Cour de France et autres Lettres Turques",,23,rw,con,somebodies,,,O1f,3
+1730s,1735,1,Y,Pétis de La Croix,Lettres critiques de Hadgi Mehemmed Effendi à Mme la Marquise de G***,non-plotted,,,,,,,,
+1730s,1736,1,Y,Argens,"Lettres juives, ou Correspondance philosophique, historique et critique entre un Juif voyageur en différens États de l'Europe et ses correspondants",,,,,,,,O2f-S,3
+1730s,1736,2,Y,Locatelli,Lettres moscovites,,59,rw,con,nobodies,fact,pref,X,Emem
+1730s,1737,1,Y,Argens,"Lettres cabalistiques, ou correspondance philosophique, historiques et critique entre deux cabalistes, divers esprits élémentaires et le seigneur Astaroth",,,,,,,,O2f-S,3
+1730s,1737,2,Y,Bridard de La Garde,"Lettres de Thérèse ***, ou Mémoires d'une jeune demoiselle de province pendant son séjour à Paris",wrong year,,,,,,,,
+1730s,1737,3,Y,[La Mothe],"Anecdotes historiques, galantes et littéraires du tems present, en forme de lettres",,60,rw,con,somebodies,,,O1,2
+1730s,1738,1,Y,anonyme,"L'Amour magot, histoire merveilleuse. Les Tisons. Et les Lettres écrites des campagnes infernales",collection,,,,,,,,
+1730s,1738,2,Y,anonyme [Polnitz],Lettres saxonnes ou avantures d'un officier saxon,,52,rw,con,nobodies,fact,pref,O1,2
+1730s,1738,3,Y,[Joubert de La Rue],Lettres d'un sauvage dépaysé à son correspondant en Amérique [...],,,,,,,,O2f-S,1
+1730s,1739,1,Y,Argens,"Lettres chinoises, ou Correspondance philosophique, historique et critique entre un Chinois voyageur et ses correspondants à la Chine, en Moscovie, en Perse et au Japon",,,,,,,,O2f-S,3
+1730s,1739,2,Y,Bridard de La Garde,"Lettres de Thérèse ***, ou Mémoires d'une jeune demoiselle de province pendant son séjour à Paris",,110,rw,con,nobodies,fact,pref,O1f,1
+1730s,1739,3,Y,Pesselier,Lettres d'Angélique *** à Thérèse ***,length,,,,,,,,
+1730s,1740,1,Y,Lesage,La Valise trouvée,republication,,,,,,,,
+1730s,1740,2,Y,[Mauvillon],Lettres françoises et germaniques [...],,,,,,,,O2f,1
+1740s,1741,1,Y,[Vitt],L'Espion turc à Francfort,,,,,,,,O2f-S,1
+1740s,1742,1,Y,Godard d'Aucour,Lettres du Chevalier Danteuil et de Mademoiselle de Thélis,,32,rw,con,nobodies,fict,"pref, mis",L1,3
+1740s,1743,1,Y,anonyme,"Lettres politiques, historiques et galantes [...] par Mr D.L.C.",,,,,,,,O2,1
+1740s,1743,2,Y,Godard d'Aucourt,"Mémoires turcs, avec l'Histoire galante de leur séjour en France [...]",not epistolary,,,,,,,,
+1740s,1744,1,Y,anonyme,"L'Espion civil et politique, ou Lettres d'un voyageur sur toutes sortes de sujets par Mr D. V***, surnommé le Chrétien errant",,,,,,,,O2,1
+1740s,1744,2,Y,Argens,Lettres philosophiques et critiques par Mademoiselle Co*** [Cochois] avec les réponses de Monsieur d'Arg***,,,,,,,,O2,2
+1740s,1745,1,Y,Argens,"Critique du siècle, ou Lettres sur divers sujets",,,,,,,,O2,2
+1740s,1745,2,Y,[Dubourg],L'Espion chinois en Europe,,35,rw,con,nobodies,fact iron,pref,O1,3
+1740s,1745,3,Y,Leblanc,Lettres d'un François [...],letter collection,,,,,,,,
+1740s,1746,1,Y,Aubert de la Chesnaye des Bois,Lettres critiques avec des songes moraux,non-plotted,,,,,,,,
+1740s,1746,2,Y,[Mouhy],"Le Papillon, ou Lettres parisiennes",periodical,,,,,,,,
+1740s,1746,3,Y,[Rochebrune],"L'Espion de Thamas Kouli-Kan dans les cours d'Europe, ou Lettres et Mémoires de Pagi-Nassir-Bek",,107,rw,con,nobodies,fact,title,O1f,1
+1740s,1747,1,Y,[Graffigny],Lettres d'une Péruvienne,,32,rw,con,nobodies,fact,pref,OL,1
+1740s,1748,1,Y,anonyme [wrong],"Lettres du baron de Busbec, Ambassadeur auprès de Soliman",letter collection,,,,,,,,
+1740s,1748,2,Y,anonyme,Le Nouvel espion turc dans les cours des princes chrétiens,,,,,,,,O2f,3
+1740s,1749,1,Y,anonyme,Lettres à Fillis,length,,,,,,,,
+1740s,1749,2,Y,anonyme,Lettres d'un inconnu à son ami Mr M. de Lu***,,10,rw,con,nobodies,ind,,L1,2
+1740s,1749,3,Y,anonyme,"Lettres d'une Dame Champenoise à une dame de qualité à La Haye, contenant le détail de plusieurs aventures galantes et comiques arrivées de nos jours",,,,,,,,O2,1
+1740s,1749,4,Y,[Coustelier],Lettres d'une demoiselle entretenue à son amant,length,,,,,,,,
+1740s,1749,5,Y,[Dalibard],"Portefeuille rendu, ou Lettres historiques par Mademoiselle de S***",,29,rw,con,nobodies,fact,pref,L1,1
+1740s,1749,6,Y,[Lacombe],"Lettres secrètes de Christine, reine de Suède",letter collection,,,,,,,,
+1740s,1749,7,Y,Lamarche Courmont,Lettres d'Aza ou d'un Péruvien. Conclusion des Lettres péruviennes,sequel,,,,,,,,
+1740s,1749,8,Y,Vadé,"Lettres de la Grenouillère entre M. Jérôme Dubois, pêcheux du Gros-Caillou et Mll Nanette Dubut, blanchisseuse de linge fin",length,[8],,,,,,,
+1740s,1750,1,Y,anonyme [Le Lurez],Lettres anonymes,letter collection,,,,,,,,
+1740s,1750,2,Y,anonyme,Lettres danoises où sont rapportées les avantures d'un prince d'Asie appelé Mendoza,lost,,,,,,,,
+1740s,1750,3,Y,anonyme,Lettres de Madame de ***,republication,,,,,,,,
+1740s,1750,4,Y,Aubert de la Chesnaye des Bois,"Lettres hollandoises, ou les moeurs, les usages et les coutumes des Hollandais",,,,,,,,O2f-S,1
+1740s,1750,5,Y,[Coustelier],"Lettres de Montmartre, par Jeannot Georgin",,12,rw,con,nobodies,ind,,X,1
+1740s,1750,6,Y,[Damours],Lettres de Ninon de Lenclos au marquis de Sévigné,,50,rw,con,somebodies,,,L1,1
+1740s,1750,7,Y,Dupré d'Aulnay,Avantures singulieres du faux chevalier de Warvick,,23,rw,con,nobodies,ind,,L1,Emem
+1740s,1750,8,Y,[Saint-Martin de La Morra ?],Lettres des veuves solitaires [...] recueillies et publiées par N.N.,lost,,,,,,,,
+1740s,1750,9,Y,Varennes de Mondasse,Lettres de M*** à son ami ou Lettres de M. à Caron et de Caron à M. ,,29,mar,,,,,O1,2
+1750s,1751,1,Y,anonyme,Vénus à confesse ou Lettres d'une comédienne retirée du spectacle à une de ses amies,,22,rw,con,nobodies,fact,pref,O1,Emem
+1750s,1751,2,Y,Coustelier,Lettres de la Fillon,length,[8],,,,,,,
+1750s,1751,3,Y,Landon,"Lettres siamoises, ou le Siamois en Europe",,17,rw,con,nobodies,fact,pref,O1f,3
+1750s,1752,1,Y,anonyme,Lettres sur le mariage,,,,,,,,O2,2
+1750s,1752,2,Y,Bastide,Lettres d'amour du chevalier de ***,,82,rw,con,nobodies,fact,pref,L1,3
+1750s,1752,3,Y,Maubert de Gouvest,Lettres iroquoises,,53,rw,con,nobodies,ind,,O1f,1
+1750s,1753,1,Y,Arcq,Lettres d'Osman,,37,rw,con,nobodies,fact iron,pref,O1f,1
+1750s,1753,2,Y,Le Prince de Beaumont,"Lettres de madame de Montier à la marquise de *** sa fille, avec les réponses (in ""Lectures sérieuses et amusantes"", Fagnan)",,60,rw,con,nobodies,fact,pref,L1s,2-3P
+1750s,1753,3,Y,Mouhy,"Lettres du Commandeur de *** à Mademoiselle de ***, avec les Réponses",,181,rw,con,nobodies,fact,pref,L1s,2
+1750s,1754,1,Y,Méray,"Les Femmes, ou Lettres du chevalier de K*** au marquis de ***",,23,rw,con,nobodies,fict,pref,L2,1
+1750s,1754,2,Y,Valabrègue,Lettres orientales d'Aben-Zaïd,,14,rw,con,nobodies,fact,pref,O1f,1
+1750s,1755,1,Y,anonyme,Lettres amoureuses de la dame Lescombat et du sieur Mongeot ou l'histoire de leurs criminelles amours,,11,rw,con,somebodies,,,L1,2
+1750s,1756,1,N,An,Nouvelle borchure ou frivolités importantes,length,[9],,,,,,,
+1750s,1756,2,Y,Méhégan ,"Lettres d'Aspasie, traduites du grec",,32,mar,,,paro,,O1,3
+1750s,1756,3,Y,Saintard ,"Roman politique sur l'état présent des affaires de l'Amérique, ou Lettres de M *** à M *** sur les moyens d'établir une paix solide et durable dans les colonies, et la liberté générale du commerce extérieur",non-plotted,,,,,,,,
+1750s,1757,1,Y,Benoist,Journal en forme de lettres,,18,rw,con,nobodies,fact,title,O1,1
+1750s,1757,2,Y,Moissy,Lettres galantes et morales du Marquis de*** au Comte de***,,26,rw,con,nobodies,fact,pref,L2,2
+1750s,1757,3,Y,Riccoboni,"Lettres de Mistriss Fanni Butlerd à Milord à Milord Charles Alfred de Caitombridge, comte de Plisinte, duc de Raflinght [...]",,30,rw,con,nobodies,fact,pref,L1s,1
+1750s,1758,1,Y,Bénouville,"Pensées errantes, avec qqs lettres d'un indien",,,,,,,,AN,
+1750s,1758,2,Y,Jaquin,Lettres parisiennes sur le désir d'être heureux,,57,rw,con,nobodies,fact equ,pref,L1,1
+1750s,1759,1,Y,Ol*** Mll d' [Ximénès],Lettres portugaises en vers,length,[3],,,,,,,
+1750s,1759,2,Y,[Riccoboni],"Lettres de milady Juliette Catesby à milady Henriette Campley, son amie",,44,rw,con,nobodies,ind,,L1s,1-J
+1750s,1760,1,N,anonyme,Lettres sylphiques,length,,,,,,,,
+1750s,1760,2,Y,[Chayer],Les Doux et Paisibles Délassements de l'amour,collection,,,,,,,,
+1760s,1761,1,Y,Belvo,Quelques lettres écrites en 1743 et 1744 par une jeune veuve au chevalier de Luzeincour,,12,rw,con,nobodies,fact,"pref, title",L1,1
+1760s,1761,2,Y,Rousseau,"Lettres de deux amans habitans d'une petite ville au pied des Alpes, Julie ou la Nouvelle Héloïse",,291,rw,con,nobodies,fact equ,"pref, title",L1s,3
+1760s,1762,1,Y,anonyme,Lettres de Mlle de Jussy à Mlle de ***,,46,rw,con,nobodies,ind,,L1s,2
+1760s,1762,2a,Y,anonyme,Lettres galantes de deux dames de notre temps: Lettres de minette,,15,rw,con,nobodies,fact,title,X,1
+1760s,1762,2b,N,,Lettres galantes de deux dames de notre temps,republication,,,,,,,,
+1760s,1762,3,Y,Jullien,Les Soirées du Palais-Royal ou les Veillées d'une jolie femme,,10,rw,con,nobodies,fict,pref,O1,1
+1760s,1763,1,Y,anonyme,Lettres d'un citoyen de Genève,,25,rw,con,nobodies,ind,,L1s,3
+1760s,1763,2,Y,anonyme,Le pauvre diable provincial ou les Lettres écrites à M. de *** par le Sr F.C. de L*****,,77,rw,con,nobodies,fact,pref,E,Emem
+1760s,1763,3,Y,[Charpentier],Lettres trouvées dans les papiers d'un père de famille,,43,rw,con,nobodies,fact,title,E,3
+1760s,1763,4,Y,[Thiroux d'Arconville],"L'Amour éprouvé par la mort, ou Lettres modernes de deux amans de vieille roche",,44,rw,con,nobodies,fact,pref,L1s,3
+1760s,1763,5,Y,[Thorel de Campigneulles],"Le Nouvel Abaillard, ou Lettres d'un singe au docteur Abadolfs, traduite de l'allemand",,49,mar,,,,,O1f,1-3P
+1760s,1764,1,Y,[Bélin de Monterzi],"Lettres turques, historiques et politiques [...]",letter collection,,,,,,,,
+1760s,1764,2,Y,"[Boursault, et Crébillon]","Lettres de Babet, avec les Lettres d'une dame de qualité à son amant",republication,,,,,,,,
+1760s,1764,3,Y,[Durosoi]/Rosoi,"Lettres de Cécile à Julie, ou les Combats de la Nature",,80,rw,con,nobodies,fact equ,pref,L1s,1-J
+1760s,1764,4,Y,[Élie de Beaumont],Lettres du Marquis de Roselle,,67,rw,con,nobodies,fict,mis,L1s,3
+1760s,1764,5,Y,Framery,Réponse de Valcour à Zeïta [...],length,,,,,,,,
+1760s,1764,6,N,Goudar,"L'espion chinois ou l'envoyé secret de la cour de Pékin pour examiner l'état present de l'Europe, traduit du chinois",,346,rw,con,nobodies,fact,pref,O1f,3
+1760s,1765,1,Y,anonyme,"L'Inconnu, roman véritable, ou Lettres de M. l'abbé de *** et de Mlle B***",,16,rw,con,nobodies,fact iron,pref,L1s,3
+1760s,1765,2,Y,anonyme,Lettres d'un jeune homme,,14,rw,con,nobodies,ind,,X,1
+1760s,1765,3,N,anonyme,Les disciples de Laverne,non-plotted,,,,,,,,
+1760s,1765,4,Y,anonyme,Zurac à Zégry ou XIV lettres d'un Indien à un Maure,republication,,,,,,,,
+1760s,1765,5,Y,[Desfontaines],Lettres de Sophie et du chevalier de *** pour servir de supplément aux lettres du marquis de Roselle,,83,rw,con,nobodies,fact based,pref,L1s,3
+1760s,1765,6,Y,[Gatrey (?)],"La Philosophe par amour, ou Lettres de deux Amans passionnés et vertueux",,67,rw,con,nobodies,fact,pref,L1,3
+1760s,1765,7,Y,Le Prince de Beaumont,Lettres d'Emerance à Lucie,,152,rw,con,nobodies,fact,pref,L1s,3
+1760s,1765,8,Y,[Nougaret],"Lucette, ou les Progrès du libertinage",not epistolary,,,,,,,,
+1760s,1765,9,Y,Riccoboni,Lettres de la princesse Zelmaïde au prince Alamir,length,,,,,,,,
+1760s,1765,10,Y,[Saint-Aubin],Mémoires en forme de lettres de deux jeunes personnes de qualité par l'auteur du Danger des liaisons,,92,rw,con,nobodies,fict,"pref, mis",L1s,3
+1760s,1765,11,Y,[Vincent],"Lettres de Miss Elisabeth Aurélie, petite-nièce du célèbre Dr Swift, traduites de l'anglois",,16,rw,con,nobodies,fact,pref,O1,1
+1760s,1766,1,Y,anonyme,Lettres galantes et historiques d'un chevalier de Malte,,20,rw,con,nobodies,fact,pref,L1s,2
+1760s,1766,2,Y,[Benoist],"Elisabeth, roman",,102,rw,con,nobodies,fict,sub,L1s,2
+1760s,1766,3,Y,Benoist,Lettres du colonel Talbert,wrong year,,,,,,,,
+1760s,1766,4,Y,Contant d'Orville,"Le Mariage du siècle, ou Lettres de Madame la comtese de Castelli a madame la baronne de Fréville",,59,rw,con,nobodies,fact based,pref,L1s,3
+1760s,1766,5,Y,Delacroix,Lettres d'Affi à Zurac,wrong year,,,,,,,,
+1760s,1766,6,Y,[Lefebvre de Beauvray],"Histoire de Miss Honora, ou le Vice dupe de lui-même",,134,rw,con,nobodies,fact,post,L1s,3
+1760s,1766,7,Y,Le Prince de Beaumont,"La Nouvelle Clarisse, histoire véritable",wrong year,,,,,,,,
+1760s,1766,8,Y,Le Prince de Beaumont,Mémoires de madame la baronne de Batteville ou la veuve parfaite,,68,rw,con,nobodies,fict,mis,L1s,3-3P
+1760s,1766,9,Y,Riccoboni,"Lettres d'Adéalaïde de Dammartin, comtesse de Sancerre, à Monsieur le comte de Nancé son ami",wrong year,,,,,,,,
+1760s,1767,1,Y,Benoist,Lettres du colonel Talbert,,182,rw,con,nobodies,fict,"pref, mis",L1s,3
+1760s,1767,2,Y,D'estrade,"Mémoires de Milady Worthon, traduits de l'anglois",,39,rw,con,nobodies,fact,pref,L1s,3
+1760s,1767,3,Y,Delacroix,Lettres d'Affi à Zurac,,27,rw,con,nobodies,fict,pref,OL,3
+1760s,1767,4,Y,Le Prince de Beaumont,"La Nouvelle Clarice, histoire véritable",,122,rw,con,nobodies,fact based,sub,L1s,3-3P
+1760s,1767,5,Y,Riccoboni,"Lettres d'Adélaïde de Dammartin, comtesse de Sancerre, à Monsieur le comte de Nancé son ami",,52,rw,con,nobodies,fict,mis,L1s,3-3P
+1760s,1768,1,Y,anonyme,"Doraste et Célonte, ou l'Inconstance peut-être loüable",not epistolary,,,,,,,,
+1760s,1768,2,Y,anonyme,Lettres de milord Rodex pour servir à l'histoire des moeurs du dix-huitième siècle,,67,rw,con,nobodies,fict,pref,L1s,3
+1760s,1768,3,N,anonyme,Le Suédois exilé,,22,rw,con,nobodies,fact,"pref, title",O1f,3
+1760s,1768,4,N,Brussel,La promenade utile et récréative de deux Parisiens en cent soixante-cinq jours,,,,,,,,O2f,1
+1760s,1768,5,Y,Crébillon,Lettres de la duchesse de *** au duc de ***,,99,rw,con,nobodies,fact,pref,L1s,1
+1760s,1768,1768.4,Y,[Laboureys],Les Métamorphoses de la religieuse. Lettres d'une dame à son amie,,46,rw,con,nobodies,ind,,L1s,Emem
+1760s,1768,7,Y,[La Guesnerie],Iphis et Aglaé,,81,rw,con,nobodies,fict,mis,L1s,3
+1760s,1769,1,Y,[Beccari],"Lettres de Milady Bedfort, traduites de l'anglais, par Mme de B... G...",,38,rw,con,nobodies,fact,pref,L1s,3
+1760s,1769,2,Y,[Dières],"Les Trois Ages de l'Amour, ou Portefeuille d'un petit maître, pour servir de supplément à la Galerie des femmes",non-plotted,,,,,,,,
+1760s,1769,3,Y,[Frénais],Histoire d'Agathe de Saint-Bohaire,,82,rw,con,nobodies,ind,,L1s,2
+1760s,1769,4,Y,Lacroix,Lettres d'un philosophe sensible,,32,rw,con,nobodies,fict,pref,L1s,3
+1760s,1769,5,N,Lesbros de la Versane,Caractères des femmes,,48,rw,con,nobodies,fact,pref,O1,1
+1760s,1769,6,Y,Restif de la Bretonne,Lettres de Lord Austin de N*** à Lord Humphrey de Dorset à son ami,,47,rw,con,nobodies,fact based,pref,L1s,1
+1760s,1769,7,Y,Restif de la Bretonne,"Le Pornographe, ou Idées d'un honnête homme sur un projet de règlement pour les prostituées",conversation,,,,,,,,
+1760s,1769,8,Y,Tesson de Laguerie,"Les Amours de Lucile et de Doligny, ou Lettres de deux amans",,57,rw,con,nobodies,fact equ,pref,L1s,2
+1760s,1769,9,Y,[Voltaire],"Les Lettres d'Amabed, traduites par l'abbé Tamponet",collection,,,,,,,,
+1760s,1770,1,Y,anonyme,Lettres variées de mademoiselle de St. Filts à madame de Rocbel par madame de M***,,79,rw,con,nobodies,fict,"pref, mis",L1s,3
+1760s,1770,2,Y,[Beccari,"Mémoires de Lucie d'Olbery, traduit de l'anglois par Mme de B...G... ",,77,rw,con,nobodies,fact,pref,L1s,1-J-3P
+1760s,1770,3,Y,[Caraccioli],Lettres à une illustre morte décédée en Pologne depuis peu de temps [...],,56,rw,con,nobodies,fact,title,X,2
+1760s,1770,4,Y,Dorat,"Lettres d'une chanoinesse de Lisbonne à Melcour, officier françois",,16,rw,con,nobodies,fict,pref,L1,1
+1760s,1770,5,Y,Framery,"Mémoires de M. le marquis de S. Forlaix, recueillis dans les lettres de sa famille par M. Framery",,105,rw,con,nobodies,fict,mis,L1s,3
+1760s,1770,6,Y,Marat,[Lettres polonaises],posthumous,,,,,,,,
+1760s,1770,7,Y,Restif de la Bretonne,La Mimographe ou Idées d'une honnête femme pour la réformation du théâtre national,,48,rw,con,nobodies,fict,pref,D,2
+1770s,1771,1,Y,[Bastide],"Le Dépit et le Voyage, poëme. Suivi des Lettres vénitiennes",,,,,,,,AN,
+1770s,1771,2,Y,Butini,Lettres africaines ou Histoire de Phédima et d'Abensar,,26,rw,con,nobodies,fict,pref,L1s,3
+1770s,1771,3,Y,Champigny,Lettres angloises ou les époux à la mode,,107,rw,con,nobodies,fict,mis,L1s,3
+1770s,1771,4,Y,Crébillon,Lettres athéniennes,,218,rw,con,nobodies,fact iron,pref,L2,3
+1770s,1771,5,Y,Dorat,"Les Sacrifices de l'Amour, ou Lettres de la vicomtesse de Senanges et du chevalier de Versenai",,87,rw,con,nobodies,fict,pref,L1s,3
+1770s,1771,6,Y,[Le Comte?],Lettres du Chevalier d'Origny à son ami Mercourt,,47,rw,con,nobodies,fict,pref,L1s,2
+1770s,1771,7,Y,Léonard,Lettres de Sainville et de Sophie,collection,,,,,,,,
+1770s,1771,8,N,Vernes,Confidence philosophique,,60,rw,con,nobodies,fict,pref,D,Emem
+1770s,1772,1,N,anonyme,"Ecole de la vertu ou lettres morales utiles à toutes personnes pour se conduire dans le monde, principalement à la jeunesse",,40,rw,con,nobodies,fict,pref,D,1
+1770s,1772,2,Y,anonyme,"Lettres d'Elle et de Lui, par une Dame de la cour et qui n'est pas d'une Académie ",,12,rw,con,nobodies,fact iron,"pref, post",L1,2
+1770s,1772,3,Y,anonyme,"Lindor, ou les Excès de l'amour",,18,rw,con,nobodies,fict,pref,L1s,3
+1770s,1772,4,Y,Coteneuve,Lettres du baron d'Olban,,22,rw,con,nobodies,ind,,L1s,3
+1770s,1772,5,Y,Dorat,"Les Malheurs de l'Inconstance, ou Lettres de la marquise de Syrcé et du comte de Mirbelle",,60,rw,con,nobodies,fict,pref,L1s,3
+1770s,1772,6,Y,Perreau,Lettres illinoises,wrong year,,,,,,,,
+1770s,1772,7,Y,Restif de la Bretonne,"Adèle de Comm***, ou Lettres d'une fille à son père",,212,rw,con,nobodies,fact based,pref,X,3
+1770s,1772,8,Y,Riccoboni,"Lettres d'Elisabeth-Sophie de Vallière à Louise-Hortense de Canteleu, son amie",,75,rw,con,nobodies,fict,mis,L1s,1
+1770s,1773,1,Y,anonyme,Lettres du comte d'Orsainville,republication,,,,,,,,
+1770s,1773,2,Y,anonyme,"Rosalie, ou la vocation forcée, mémoires de la comtesse d'Hes***",,74,rw,con,nobodies,ind,,L1s,1
+1770s,1773,3,Y,Carmontelle,"Le Triomphe de l'amour sur les moeurs de ce siècle, ou Lettres du marquis de Murcin au commandeur de Saint-Brice",,57,rw,con,nobodies,fact equ,pref,L1s,2
+1770s,1774,1,Y,anonyme,Le Jeune Philosophe ou Lettres de Florival et de Sophie,,44,rw,con,nobodies,fict,pref,L1s,3
+1770s,1774,2,Y,anonyme,"Le Rendez-vous, roman sentimental en une suite de lettres",lost,,,,,,,,
+1770s,1774,3,N,Blondel,L'homme du monde éclairé par les arts,non-plotted,,,,,,,,
+1770s,1774,4,Y,Gérard,"Le Comte de Valmont, ou les Egarements de la raison. Lettres recueillies et publiées par M***",,448,rw,con,nobodies,fact,pref,L1s,3
+1770s,1774,5,N,"Hélaine, abbé","Les amants vertueux ou lettres d'une jeune dame écrites de la campagne à son amie à Londres, ouvrage traduit de l'anglois",,50,rw,con,nobodies,fact,post,L1s,1-3P
+1770s,1774,6,Y,Le Prince de Beaumont,"Le Vrai Point d'honneur, histoire morale",collection,,,,,,,,
+1770s,1774,7,Y,Léonard,"La Nouvelle Clémentine, ou Lettres de Henriette de Berville",,14,rw,con,nobodies,fact based,pref,L1s,3
+1770s,1775,1,Y,anonyme,"L'Amour vainqueur du vice, ou Lettres du marquis de Cousanges",,69,rw,con,nobodies,ind,,L1s,3
+1770s,1775,2,Y,anonyme,"Zabhet, ou les Heureux Effets de la bienfaisance, par Madame de B***",,52,rw,con,nobodies,fact,pref,X,1
+1770s,1775,3,Y,[Boisgiron],"Les Suites d'un moment d'erreur, ou Lettres de Mademoiselle de Kéresmont",,79,rw,con,nobodies,fact,pref,L1s,3
+1770s,1775,4,Y,Laisse,Ouvrage sans titre. Minerve le donnera,,26,rw,con,nobodies,fict,"pref, mis",L1s,3
+1770s,1775,5,Y,[Ramond de Carbonnières],Les Amours malheureux d'un Vendéen,length,[8],,,,,,,
+1770s,1775,6,Y,Restif de la Bretonne,"Le Paysan perverti, ou les Dangers de la ville. Histoire récente mise au jour d'après les véritables lettres des personnages",wrong year,,,,,,,,
+1770s,1776,1,N,anonyme,"Les momens perdus ou l'histoire d'Adélaïde, anecdote morale",not epistolary,,,,,,,,
+1770s,1776,2,Y,Béranger,"Le Natif, ou Lettres de Théodore et d'Annette",unavailable,,,,,,,,
+1770s,1776,3,Y,Imbert,"Les Egarements de l'amour, ou Lettres de Faneli et de Milfort",,79,rw,con,nobodies,fict,pref,L1s,3
+1770s,1776,4,Y,[Poulain de Nogent],"Lettres de Madame la comtesse de La Rivière à Madame la baronne de Neufpont, son amie [...]",,228,rw,his,nobodies,fact,pref,X,1-3P
+1770s,1776,5,Y,Restif de la Bretonne,"Les Gynographes, ou Idées de deux honnêtes femmes [...]",wrong year,,,,,,,,
+1770s,1776,6,Y,Restif de la Bretonne,"Le Paysan perverti, ou les Dangers de la ville. Histoire récente mise au jour d'après les véritables lettres des personnages",,236,rw,con,nobodies,fact,"pref, title",E,3
+1770s,1776,7,Y,Riccoboni,Lettres de mylord Rivers à Sir Charles Cardigan entremêlées d'une partie de ses correspondances à Londres pendant son séjour en France,wrong year,,,,,,,,
+1770s,1777,1,Y,anonyme,"Lettres galantes et philosophiques de deux nonnes, publiées par un apôtre du libertinage, avec des notes",,27,rw,con,nobodies,fact,title,X,2
+1770s,1777,2,Y,[Boisgiron],"Lettres de Mademoiselle de Boismiran, recueillies et publiées par Mad. de ***",,108,rw,con,nobodies,fact,title,L1s,2
+1770s,1777,3,Y,Coteneuve,"La Confiance trahie, ou Lettres du chevalier de Murcy",,25,rw,con,nobodies,fict,"pref, title",L1s,3
+1770s,1777,4,Y,Le Monnier,Fêtes des bonnes gens de Canon et des Rosières de Briquebec,,37,rw,con,nobodies,fact based,pref,X,1
+1770s,1777,5,Y,Motte,Lettres du marquis de Sézannes au comte de Saint-Lis,wrong year,,,,,,,,
+1770s,1777,6,Y,Nougaret,"La Paysanne pervertie, ou les Moeurs des grandes villes. Mémoires de Jeannette R*** [...]",,166,rw,con,nobodies,fact,"pref, title",E,3
+1770s,1777,7,Y,Pidansat de Mairobert,"L'Observateur anglois, ou Correspondance secrète enre Milord All'Eye et Milord All'Ear",,,,,,,,O2f-S,1
+1770s,1777,8,Y,Restif de la Bretonne,"Les Gynographes, ou Idées de deux honnêtes femmes [...]",,156,rw,con,nobodies,fact,title,D,3
+1770s,1777,9,Y,Restif de la Bretonne,"Le Quadragénaire, ou l'Age de renoncer aux passions, histoire utile à plus d'un lecteur",,102,rw,con,nobodies,fact based,pref,L1,3-3P
+1770s,1777,10,Y,Riccoboni,Lettres de mylord Rivers à Sir Charles Cardigan entremêlées d'une partie de ses correspondances à Londres pendant son séjour en France,,50,rw,con,nobodies,fict,mis,L1s,3
+1770s,1778,1,Y,anonyme,Lettres turques d'Osman C. à Thérèse P. ,length,,,,,,,,
+1770s,1778,2,Y,Beauharnais,Lettres de Stéphanie. Roman historique en 3 parties,,134,rw,his,nobodies,fict,"pref, sub",L1s,3-3P
+1770s,1778,3,Y,Beccari,"Milord d'Ambi, histoire angloise",,59,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1770s,1778,4,Y,"Bourgoing, & Musset de Cogners","Correspondance d'un jeune militaire, ou Mémoires du marquis de Luzigni et d'Hortense de Saint-Just",,77,rw,con,nobodies,fact,pref,L1s,3
+1770s,1778,5,Y,coll.,Lettres de tendresse et d'amour,collection,,,,,,,,
+1770s,1778,6,Y,Motte,Lettres du marquis de Sézannes au comte de Saint-Lis,,73,rw,con,nobodies,fict,"pref, mis",L1s,1
+1770s,1778,7,Y,[Restif de la Bretonne],"Le Nouvel Abeilard, ou Lettres de Deux amans qui ne sont sont jamais vus",,314,rw,con,nobodies,fact,pref,L1s,3
+1770s,1779,1,Y,anonyme,La Femme comme il y en a peu ou l'Amant rival de lui-même,,14,rw,con,nobodies,ind,,L1s,3
+1770s,1779,2,Y,[Mollet],"Sophie, ou Lettres de deux amies, recueillies et publiées par un citoyen de Genève",,34,rw,con,nobodies,fact,title,L1s,3
+1770s,1780,1,Y,anonyme,Lettres de Madame de B*** et du comte de L***,,22,rw,con,nobodies,ind,,X,2
+1770s,1780,2,Y,anonyme [Bastide?],Lettres venitiennes,wrong year,,,,,,,,
+1770s,1780,3,Y,Beauharnais,"L'Abailard supposé, ou le Sentiment à l'épreuve",not epistolary,,,,,,,,
+1770s,1780,4,Y,Bounon Malarmé,Lettres de Miladi Lindsey ou l'Epouse pacifique,,76,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1770s,1780,5,Y,Bournon Malarmé,"Mémoires de Clarence Welldone, ou le Pouvoir de la vertu. Histoire angloise",,45,rw,con,nobodies,fict,"pref, mis",L1s,3
+1770s,1780,6,Y,[La Reynie de La Bruyère],Lettres indiennes [...],lost,,,,,,,,
+1770s,1780,7,Y,Nougaret,Les Méprises ou les illusions du plaisir. Lettres du comte d'Orabel pour servir l'histoire de sa vie,,48,rw,con,nobodies,fact,"pref, title",L1s,3
+1770s,1780,8,Y,Retif de la Bretonne,"La malédiction paternelle, lettres sincères et véritables de N.** ** *** à ses parens, ses amis et ses maîtresses, avec les réponses, recueuillies et publiées par Timothée Joly, son exécuteur testamentaire",,189,rw,con,nobodies,fact,"pref, title",L1s,3
+1780s,1781,1,Y,anonyme,"Les Délices du sentiment, or The Passionate Lovers [...]",,17,rw,con,nobodies,fact,title,L1s,2
+1780s,1781,2,Y,Beccari,"Les Dangers de la calomnie, ou Mémoires de Fanny Spingler, histoire angloise",not epistolary,,,,,,,,
+1780s,1781,3,Y,Bridel,"Les Infortunes du jeune chevalier de La Lande, mort à Lausanne le 1. février 1778",,30,rw,con,nobodies,fict, pref,L1s,1-J
+1780s,1781,4,Y,Colleville,Lettres du chevalier de Saint-Alme et de mademoiselle de Melcourt,,27,rw,con,nobodies,fict,mis,L1s,3-3P
+1780s,1782,1,Y,anonyme,"Lettres de Mme P., née C., à la Grande-Rivière, et Habitante au Trou, quartier du Cap-Français, isle Saint-Domingue, à M.L., habitant du Cap-Français",length,,,,,,,,
+1780s,1782,2,Y,Béranger,"Les Amans républicains, ou Lettres de Nicias et de Cynire",,118,rw,con,nobodies,fact,post,L1s,3-3P
+1780s,1782,3,Y,Choderlos de Laclos,"Les Liaisons dangereuses, ou Lettres recueillies dans une société et publiées pour l'instruction de quelques autres",,145,rw,con,nobodies,fact equ,"pref, title",L1s,3
+1780s,1782,4,Y,Genlis,"Adèle et Théodore ou lettres sur l'éducation, conenant tous les principes relatifs aux trois différens plans d'éducation des princes, des jeunes personnes, & des hommes",,276,rw,con,nobodies,ind,,D,3
+1780s,1782,5,Y,Lamberg,Le Canot ou Lettres de Mama Blergx par l'auteur du Mémorial d'un mondain,unavailable,,,,,,,,
+1780s,1782,6,Y,Restif de la Bretonne,L'Andrographe,non-plotted,,,,,,,,
+1780s,1782,7,Y,Rousseau,Lettres à Sara,posthumous,,,,,,,,
+1780s,1782,8,Y,Vasse,"Les Aveux d'une femme galante, ou Lettres de Madame la marquise de *** à Milady Fanni Stapelton",,22,rw,con,nobodies,fict,pref,L1s,2
+1780s,1783,1,Y,Bournon Malarmé,"Anna Rose-Tree, histoire angloise",,86,rw,con,nobodies,fict,pref,L1s,3
+1780s,1783,2,Y,Colleville,"Alexandrine ou l'amour est une vertu, par mademoiselle de S***",,21,rw,con,nobodies,fict,mis,L1s,3
+1780s,1783,3,Y,Constant de Rebecque,"Le Mari sentimental, ou le mariage comme il y en quelques-uns. Lettres d'un homme du pays de Vaud, écrites en 17..",,42,rw,con,nobodies,fact,"pref, title",L1s,1-3P
+1780s,1783,4,Y,[Desmarets],Le Triomphe de la Nature. Roman nouveau,,14,rw,con,nobodies,fact based,pref,L1s,3
+1780s,1783,5,Y,Léonard,"Lettres de deux amans habitans de Lyon, contenant l'histoire tragique de Thérèse et de Faldoni",,104,rw,con,nobodies,fact,title,L1s,3
+1780s,1783,6,N,Théveneau de Morande,"Le Portefeuille de madame Gourdan dite la comtesse, pour servir à l'histoire des moeurs du siècle & principalement de celles de Paris, seule édition exacte",length,[9],,,,,,,
+1780s,1783,7,Y,Witard de Bezu,Le Danger d'aimer un étranger ou Histoire de Mylady Chester et d'un duc français,,133,rw,con,nobodies,fact,pref,L1s,3-3P
+1780s,1784,1,Y,anonyme,Lettres de Julie à Eulalie ou Tableau du libertinage de Paris,,28,rw,con,nobodies,fact,pref,X,1
+1780s,1784,2,Y,[Briel],"Le Danger d'une première faute, histoire angloise [...]",,27,rw,con,nobodies,fict,mis,L1s,3
+1780s,1784,3,Y,[Charrière],"Lettres de Mistriss Henley, publiées par son amie Mme de C*** de Z***",,11,rw,con,nobodies,fact,title,L1s,1
+1780s,1784,4,Y,[Charrière],Lettres neuchâteloises,,19,rw,con,nobodies,fict,sub,L1s,3
+1780s,1784,5,Y,Damours ,Lettres de Miladi *** sur l'influence que les femmes pourraient avoir dans l'éducation des hommes,,67,rw,con,nobodies,fact,pref,X,1
+1780s,1784,6,Y,[Dauphin],"La Dernière Héloïse, ou Lettres de Junie Salisbury",,35,rw,con,nobodies,fact equ,"pref, title",L1s,3
+1780s,1784,7,Y,Haudart,Vie et amours d'un pauvre diable,,,,,,,,AN,
+1780s,1784,8,Y,[La Place],"Les Deux Mentors, ou Mémoires pour servir à l'histoire des moeurs angloises au XVIIe siècle, traduction libre de l'anglois",translation,,,,,,,,
+1780s,1784,9,Y,Montbard,Lettres taïtiennes,,48,rw,con,nobodies,fact equ,pref,OL,2
+1780s,1784,10,Y,Restif de la Bretonne,"La Paysanne pervertie, ou les Dangers de la ville. Histoire d'Ursule R***, soeur d'Edmond le paysan, mise au jour d'après les véritables lettres des personnages",,209,rw,con,nobodies,fact,pref,L1s,3
+1780s,1785,1,Y,anonyme,"L'Amitié fraternelle, ou le Triomphe des vertus",translation,,,,,,,,
+1780s,1785,2,Y,anonyme,Julie ou le triomphe de la constance,,65,rw,con,nobodies,fact,pref,L1s,1
+1780s,1785,3,Y,anonyme,Le prix de l'union,,36,rw,con,nobodies,ind,,L1s,3
+1780s,1785,4,Y,Bournon Malarmé,"Richard Bodley, ou la Prévoyance malheureuse",,65,rw,con,nobodies,fict,mis,L1s,3
+1780s,1785,5,Y,Bricaire de la Dixmerie,"Les Dangers d'un premier choix, ou Lettres de Laure à Emilie",,88,rw,con,nobodies,fict,mis,L1s,2
+1780s,1785,6,Y,Cacouault de la Mimardière,"Le triomphe de la raison ou lettres de deux jeunes dames de qualité, dédié, par permission, à madame la duchesse de Devonshine, par mademoiselle Cacouault de la Mimardière",,36,rw,con,nobodies,fict,"pref, mis",L1s,3
+1780s,1785,7,Y,Charrière,Lettres écrites de Lausanne,,25,rw,con,nobodies,ind,,L1,1
+1780s,1785,8,Y,Constant de Rebecque,"Camille, ou Lettres de deux filles de ce siècle, traduites de l'anglois",,216,rw,con,nobodies,fact,pref,L1s,3
+1780s,1785,9,Y,[Fontenette de Sommery],Lettres de madame la comtesse de L*** à Monsieur le comte de R***,,45,rw,con,nobodies,fact,pref,X,1
+1780s,1785,10,Y,[Nougaret],"Les Dangers de la Sympathie. Lettres de Henriette de Belval au baron de Luzi***, et de différentes personnes qui ont eu part aux principaux événements de sa vie",,57,rw,con,nobodies,fact,pref,L1s,3
+1780s,1786,1,Y,anonyme,"Valentine, ou Lettres et mémoires intéressans d'une famille angloise",,23,rw,con,nobodies,fict,pref,L1s,3
+1780s,1786,2,Y,Constant de Rebecque,"Laure, ou Lettres de quelques personnes de Suisse",,231,rw,con,nobodies,fact,pref,L1s,3-3P
+1780s,1786,3,Y,[Fleuriot de Langle],"Amours, ou Lettres d'Alexis et de Justine",,64,rw,con,nobodies,fict,pref,L1s,3
+1780s,1786,4,Y,[Leroy de Lozembrune],"Tableau des moeurs d'un siècle philosophe, histoire de Justine de Saint-Val",,52,rw,con,nobodies,fict,"pref, mis",L1s,3
+1780s,1786,5,Y,[Maimieux],"L'Hypocrite démasqué, ou Félix et Colombe",,90,rw,con,nobodies,ind,,L1s,3
+1780s,1786,6,Y,Maribert-Courtenay,La Femme infidelle,,136,rw,con,nobodies,fact,pref,L1s,3
+1780s,1786,7,Y,[Restif de la Bretonne],"Les Egarements d'un Philosophe, ou le Chevalier de Saint-Albin",,57,rw,con,nobodies,fact,pref,L1s,3
+1780s,1787,1,Y,anonyme,"La femme vertueuse, ou le Débauché converti par l'amour. Lettres publiées pour l'instruction de quelques sociétés dans le genre des Liaisons dangereuses par M. l'A.D.L.G. ***",,45,rw,con,nobodies,fact equ,pref,L1s,3
+1780s,1787,2,Y,Aissé,Lettres de Mademoiselle Aissé à Madame C***,non-plotted,,,,,,,,
+1780s,1787,3,Y,"(Bekker, et Deken) anonyme","Histoire de Mademoiselle Sara Burgerhard, publiée en forme de lettres [...]. Traduit du hollandois",translation,,,,,,,,
+1780s,1787,4,Y,Gacon-Dufour,"L'Homme errant fixé par la raison, ou Lettres de Célidor et du marquis de Tobers, par le comte d'Ay... et de Madame Filh. d'Hu...",,30,rw,con,nobodies,fict,mis,L1s,3
+1780s,1787,5,Y,[Gacon-Dufour],"Le Préjugé vaincu, ou Lettres de madame la comtesse de *** et de madame de *** réfugiée en Angleterre. Par M. le comte d'Ay*** et Madame Filh*** d'H***",,41,rw,con,nobodies,fict,"pref, mis",L1s,3
+1780s,1787,6,Y,Gauthier,"Lettres de madame de G***, contenant plusieurs anecdotes dans son voyage aux eaux de Barège & quelques particularités échappées aux autres voyageurs en France",,57,rw,con,nobodies,ind,,X,1
+1780s,1787,7,Y,[Lesuire],"Le Philosophe parvenu, ou Lettres et pièces originales contenant les aventures d'Eugène Sans-Pair, par l'auteur de l'Aventurier françois",,311,rw,con,nobodies,fict,"pref, mis",L1,Emem
+1780s,1787,8,Y,Loaisel de Tréogate,"Ainsi finissent les grandes passions, ou les dernières amours du chevalier de ***",,69,rw,con,nobodies,fact,pref,L1s,1
+1780s,1787,9,Y,[Maimieux],Alphonse d'Inange ou le nouveau Grandisson,translation,,,,,,,,
+1780s,1787,10,Y,Monnet,Lettres de Jenny Bleinmore,,38,rw,con,nobodies,fict,mis,L1,1
+1780s,1788,1,Y,anonyme,"Géorgina, histoire véritable; par l'auteur de Cécilia, traduite de l'Anglois par M. V****",translation,,,,,,,,
+1780s,1788,2,Y,anonyme,L'Amant généreux,,24,rw,con,nobodies,fact based,pref,L1s,3
+1780s,1788,3,Y,anonyme,"Les Dangers d'un amour illicite ou le mariage mal assorti, par M. le comte de ***",,74,rw,con,nobodies,fact,"pref, sub",L1s,2
+1780s,1788,4,Y,anonyme,"Jenny et Walfield, ou les Epreuves de deux coeurs tendres",,65,rw,con,nobodies,fict,pref,L1s,3
+1780s,1788,5,Y,anonyme,"Lettres de la Marquise de Bremont à Eugénie, publiées par la comtesse de ***",,41,rw,con,nobodies,fact,"pref, mis",L1s,1
+1780s,1788,6,Y,anonyme,Lettres intéressantes de plusieurs personnes de qualité,,53,rw,con,nobodies,fict,pref,L1s,3
+1780s,1788,7,Y,[Bette d'Étienville],Les Effets de la prévention ou La Marquise de Ben***,,71,rw,con,nobodies,ind,,L1s,3
+1780s,1788,8,Y,Bournon Malarmé,Lettres de Mylord Walton à sir Hugh Battle son ami,,86,rw,con,nobodies,fict,mis,L1s,3
+1780s,1788,9,Y,[Caraccioli],Lettres d'un Indien à Paris à son ami Glazir [...],wrong year,,,,,,,,
+1780s,1788,10,Y,Daubenton,Supplément à l'histoire de Zélie dans le désert,sequel,,,,,,,,
+1780s,1788,11,Y,[Fontenette de Sommery],Lettres de Mademoiselle de Tourville à Madame la comtesse de Lenoncourt,,61,rw,con,nobodies,ind,,L1,1
+1780s,1788,12,Y,Gacon-Dufour,Les Dangers de la coquetterie,,36,rw,con,nobodies,ind,,L1s,3
+1780s,1788,13,Y,[La Salle d'Offémont],"Le Mal-adroit, ou Lettres du comte de Gauchemont",,45,rw,con,nobodies,fict,pref,OL,3
+1780s,1788,14,Y,Le Vacher de Charnois,"Histoire de Sophie et d'Ursule, ou Lettres extraites d'un porte-feuille [...]",,83,rw,con,nobodies,fact,"pref, title",L1s,3
+1780s,1788,15,Y,Maimieux,Le comte de Saint-Méran ou les nouveaux égaremens du coeur et de l'esprit,not epistolary,,,,,,,,
+1780s,1788,16,Y,Maimieux,Justine d'Arancy ou la Vertu calomniée,,76,rw,con,nobodies,fict,mis,L1s,3
+1780s,1788,17,Y,Nerciat,Le Doctorat impromptu,,16,rw,con,nobodies,fact,pref,X,1
+1780s,1788,18,Y,[Polier de Bottens],Lettres d'Hortense de Valsin à Eugénie de S. Firmin,,94,rw,con,nobodies,fict,pref,L1s,3-3P
+1780s,1789,1,Y,anonyme,"Aventures intéressantes d'un orphelin françois, ou Lettres de Monsieur le comte de *** à Madame la baronne de ***, par M***",,45,rw,con,nobodies,fict,"pref, mis",L1,Emem
+1780s,1789,2,Y,anonyme,"Les Chevalières errantes, ou les deux sosies femelles",,129,rw,con,nobodies,fict,sub,L1,3
+1780s,1789,3,Y,anonyme,Le Fils naturel,,59,rw,con,nobodies,fict,pref,L1s,1-3P
+1780s,1789,4,Y,anonyme (Schell),Lettres et aventures d'Alexandre de Schell,translation,,,,,,,,
+1780s,1789,5,Y,[Caraccioli],Lettres d'un Indien à Paris à son ami Glazir [...],,133,rw,con,nobodies,fict,mis,O1f,1
+1780s,1789,6,Y,Devaines,Lettres de la comtesse de ... au chevalier de ...,length,,,,,,,,
+1780s,1789,7,Y,[Duplessis],"Histoire du marquis de Séligni et de Madame de Luzai, ou Lettres authentiques et originales trouvées dans un porte-feuille à la mort de M. le Maréchal de ***",,106,rw,con,nobodies,fact,"pref, title",L1s,3
+1780s,1789,8,Y,Lesuire,"Le Crime, ou Lettres originales contenant les aventures de Cesar de Perlencour",,346,rw,con,nobodies,fict,pref,E,3
+1780s,1789,9,Y,Lesuire,"Le Repentir, ou Suite des lettres originales contenant les aventures de César de Perlencour, intitulées Le Crime",sequel,,,,,,,,
+1780s,1789,10,Y,Nougaret,"Le Danger des circonstances, ou Lettres du chevalier de Joinville et de Mlle d'Arans",,246,rw,con,nobodies,fact,"pref, title",L1s,3
+1780s,1789,11,Y,[Ségur],"Correspondance secrète entre Mademoiselle Ninon de Lenclos, le marquis de Villarceaux et Madame de M*** [Maintenon]",,42,rw,his,somebodies,,,L2,3
+1780s,1790,1,Y,anonyme,"Marie-Antoinette dans l'embarras ou correspondance de la Fayete avec le roi, la reine, la Tour-du-Pin et Saint-Priest ",not epistolary,,,,,,,,
+1780s,1790,2,Y,Gorjy,"Saint-Alme, par l'auteur de Blançay",,44,rw,con,nobodies,fact,mis,L1s,1-3P
+1780s,1790,3,Y,Millon,Charlotte Belmont,,20,rw,con,nobodies,fict,mis,L1s,3
+1780s,1790,4,Y,[Nougaret],"Les Progrès du libertinage, historiette trouvée dans le Portefeuille d'un carme réformé",republication,,,,,,,,
+1780s,1790,5,Y,Ségur,La Femme jalouse,,50,rw,con,nobodies,fact,pref,L1s,3
+1780s,1790,6,Y,[Sélis],Lettres écrites de la Trappe par un novice,,19,rw,con,nobodies,fact,"pref, title",X,1-3P
+1780s,1790,7,Y,Sénac de Melhan,"Les Deux Cousins, histoire véritable",not epistolary,,,,,,,,
+1780s,1790,8,Y,Sérieys,Le Martyr de la liberté,,48,rw,his,somebodies,,,X,3
+1790s,1791,1,Y,[Ferrières],"Saint-Flour et Justine, ou Histoire d'une jeune Françoise du dix-huitième siècle",,103,rw,con,nobodies,fict,"pref, mis",L1s,3
+1790s,1791,2,N,Gourbillon,"Stellino ou le nouveau Werther, dédié  à madame, belle-soeur du roi",,40,rw,con,nobodies,fact,pref,L1s,1
+1790s,1791,3,Y,Lemierre d'Argy,"Les Heureux Modèles, ou l'Ecole du bonheur. Traduit de l'anglois",,41,rw,con,nobodies,ind,,L1s,3
+1790s,1791,4,Y,[Louvet de Couvray],"Emilie de Varmont, ou le Divorce nécessaire, et les amours du curé Sévin",,77,rw,con,nobodies,fict,mis,L1s,3
+1790s,1791,5,Y,Perrin,Werthérie,,53,rw,con,nobodies,fict,"pref, mis",L1s,1
+1790s,1792,1,Y,Lory de Narp,Les Victimes de l'amour et de l'inconstance ou Lettres de Mme de Blainville,unavailable,,,,,,,,
+1790s,1792,2,Y,Kéralio,Les visites par mademoiselle D**K***,,30,rw,con,nobodies,fict,mis,O2,1-J
+1790s,1792,3,Y,Nougaret,"Honorine Clarins, histoire américaine",,97,rw,con,nobodies,fact,pref,L1s,3
+1790s,1792,4,Y,[Sélis],Lettres écrites de la Trappe par un novice,wrong year,,,,,,,,
+1790s,1793,1,Y,Sade,"Aline et Valcour, ou le Roman philosophique",wrong year,,,,,,,,
+1790s,1793,2,Y,Wiesenhuetten,Journal de Lolotte,,35,rw,con,nobodies,fict,mis,L1s,1-J
+1790s,1794,1,Y,Rochefort,"Adraste et Nancy V...y, anecdote américaine",unavailable,,,,,,,,
+1790s,1794,2,Y,Souza,"Adèle de Senange, ou Lettres de Lord Sydenham",,37,rw,con,nobodies,fict,"pref, mis",L1s,1
+1790s,1795,1,Y,Booser,Le Triomphe de la saine philosophie ou la vraie Politique des femes par la C. B***,,22,rw,con,nobodies,fict,mis,L1s,2
+1790s,1795,2,Y,Haudry,"Tout s'arrange à la fin ou Histoire de M. Melfort, écrite dans le courant de 1790",wrong year,,,,,,,,
+1790s,1795,3,Y,[Nicod],"Georges et Lawrence, traduit de l'anglois par N*** d'Ar... en B..., auteur de Léonci",,96,rw,con,nobodies,fict,"pref, mis",L1s,3
+1790s,1795,4,Y,[Nicod],"Léonci, histoire véritable ou Lettres contenant les principaux événements de sa vie, recueillies par elle-même, traduit de l'anglois, sur la troisième édition, par N***",,121,rw,con,nobodies,fact,pref,L1s,3-3P
+1790s,1795,5,Y,Sade,"Aline et Valcour, ou le Roman philosophique",,190,rw,con,nobodies,fict,pref,L1s,3
+1790s,1795,6,Y,Sénancour,"Aldomen, ou le Bonheur dans l'obscurité, par le citoyen Pivert",,16,rw,con,nobodies,fact,pref,L1s,2
+1790s,1795,7,Y,Vernes,"Adélaïde de Clarencé, ou les Malheurs et les Délices du sentiment, lettres écrites des rives lémantines",wrong year,,,,,,,,
+1790s,1796,1,Y,anonyme,"Lady Almérie Belmore*, traduit de l'anglois par De R***",,35,rw,con,nobodies,ind,,L1s,3
+1790s,1796,2,Y,Bournon Malarme,Les trois soeurs et la folie guérie par l'amour ou les heureux effets de l'amour filial,,95,rw,con,nobodies,fict,mis,L1s,3-3P
+1790s,1796,3,Y,Haudry,"Tout s'arrange à la fin ou Histoire de M. Melfort, écrite dans le courant de 1790",,71,rw,con,nobodies,ind,,L1s,3-3P
+1790s,1796,4,Y,Ménard,"Les Malheurs de la Jalousie, ou Lettres de Murville et d'Eléonore Melcour",,89,rw,con,nobodies,fict,"pref, mis",L1s,3
+1790s,1796,5,Y,Vernes,"Adélaïde de Clarencé, ou les Malheurs et les Délices du sentiment, lettres écrites des rives lémantines",,109,rw,con,nobodies,fact,"pref, mis",L1s,3
+1790s,1797,1,Y,Ducos,Marie de Sinclair,wrong year,,,,,,,,
+1790s,1797,2,Y,Girod,Lettres d'une jeune vestale et d'un jeune Romain,,16,rw,his,nobodies,transposed,pref,L1,3
+1790s,1797,3,Y,Mesmon,Lettres Westphaliennes,,51,rw,con,nobodies,fact,pref,X,1
+1790s,1797,4,Y,[Révéroni Saint-Cyr],"Sabina d'Herfeld, ou les Dangers de l'imagination. Lettres prusiennes",,46,rw,con,nobodies,fact based,pref,L1s,3-1P
+1790s,1797,5,Y,[Rosny],"Joseph et Caroline, ou le Berger de la Sologne",,30,rw,con,nobodies,fact,pref,X,3
+1790s,1797,6,Y,Quesné,"Lettres de Verteuil, de Paris, à Mondorff, de Nuremberg",wrong year,,,,,,,,
+1790s,1797,7,Y,[Sancy],"Alphonse d'Armancourt, ou la Belle Mère",,68,rw,con,nobodies,fict,pref,L1s,3-3P
+1790s,1797,8,Y,Sénac de Melhan,"L'Emigré, publié par M de Meilhan",,159,rw,con,nobodies,fact,pref,L1s,3
+1790s,1797,9,Y,Wiesenhuetten,"Hélène, par Madame la baronne de ***, auteur du Journal de Lolotte",,40,rw,con,nobodies,fict,mis,L1s,3
+1790s,1798,1,Y,anonyme,"Adèle et Sophie, ou les Deux Amies, par Mlle S***",,86,rw,con,nobodies,fict,mis,L1s,2
+1790s,1798,2,Y,[Bette d'Etienville],"Juliéri, ou le Triomphe de la vérité sur l'erreur",wrong year,,,,,,,,
+1790s,1798,3,Y,Cottin,Claire d'Albe,wrong year,,,,,,,,
+1790s,1798,4,Y,Ducos,Marie de Sinclair,,38,rw,con,nobodies,ind,,L1s,1
+1790s,1798,5,Y,Genlis,"Les Petits Emigrés, ou Correspondance de quelques enfans",,131,rw,con,nobodies,fact based,pref,D,3
+1790s,1798,6,Y,La Grave,Sophie de Beauregard ou le Véritable Amour,wrong year,,,,,,,,
+1790s,1798,7,Y,Lavallée,Les Dangers de l'Intrigue,,170,rw,con,nobodies,fict,"pref, mis",L1s,3
+1790s,1798,8,Y,[Maimieux],"Charles de Rosenfeld, ou l'Aveugle inconsolable d'avoir cessé de l'être",wrong year,,,,,,,,
+1790s,1798,9,Y,Montalembert,Elise Duménil,wrong year,,,,,,,,
+1790s,1798,10,Y,Nicod,"Maria de Marlinges, traduit de l'anglais",,90,rw,con,nobodies,ind,,L1s,3
+1790s,1798,11,Y,Quesné,"Lettres de Verteuil, de Paris, à Mondorff, de Nuremberg",,17,rw,con,nobodies,fact,"pref, title",O1,1
+1790s,1798,12,Y,Quinquet,"Illyrine, ou l'Ecueil de l'inexpérience",wrong year,,,,,,,,
+1790s,1798,13,Y,Texier,Les Colons de toutes les couleurs. Histoire d'un établissement nouvau à la côte de Guinée,,135,rw,con,nobodies,fact equ,pref,O1,1
+1790s,1798,14,Y,Tott,"Pauline de Vergies, ou Lettres de Madame de Staincins",wrong year,,,,,,,,
+1790s,1799,1,Y,[Bette d'Etienville],"Juliéri, ou le Triomphe de la vérité sur l'erreur",,89,rw,con,nobodies,ind,,L1s,3
+1790s,1799,2,N,Cadet de Gassicourt,"Mon voyage ou lettres sur la ci-devant province de Normandie, suivies de quelques pièces fugitives",non-plotted,,,,,,,,
+1790s,1799,3,Y,Cottin,"Claire d'Albe, par la C.***",,37,rw,con,nobodies,fact based,pref,L1s,3-3P
+1790s,1799,4,Y,La Grave,Sophie de Beauregard ou le Véritable Amour,,61,rw,con,nobodies,fict,mis,L1s,3
+1790s,1799,5,Y,Lemaire,Mélanie et Félicité ou la Différence des caractères,,50,rw,con,nobodies,fict,"pref, mis",L1s,3
+1790s,1799,6,Y,[Maimieux],"Charles de Rosenfeld, ou l'Aveugle inconsolable d'avoir cessé de l'être",,98,rw,con,nobodies,fict,"sub, mis",X,1
+1790s,1799,7,Y,Mérard de Saint-Just,"Le Château noir, ou les Souffrances de la jeune Ophelle",not epistolary,,,,,,,,
+1790s,1799,8,Y,Mimaut,Le Nouveau Faublas ou les Aventures de Florbelle,,80,rw,con,nobodies,fict,mis,L1s,3
+1790s,1799,9,N,Pagès,Le triomphe de l'amour et de l'amitié ou lettres d'Adeline de Rainsy et de Sainval,unavailable,,,,,,,,
+1790s,1799,10,Y,Quinquet,"Illyrine, ou l'Ecueil de l'inexpérience",,197,rw,con,nobodies,fact based,pref,L1s,Emem
+1790s,1799,11,Y,Souza,"Emilie et Alphonse, ou Danger de se livrer à ses premières impressions",,68,rw,con,nobodies,fict,mis,L1s,3-3P
+1790s,1799,12,Y,Tott,"Pauline de Vergies, ou Lettres de Madame de Staincins",,118,rw,con,nobodies,fact,title,L1s,3-3P
+1790s,1800,1,Y,anonyme,"Augusta ou tableau comparatif des moeurs françaises et des moeurs anglaises, avec des notes très-instructives, par un émigré",,56,rw,con,nobodies,fict,mis,L1s,3
+1790s,1800,2,Y,anonyme,"Camille et Agathe, ou l'Amour vainqueur de la mort",,19,rw,con,nobodies,fact,pref,L1s,2
+1790s,1800,3,Y,Ciled,Les Amours et Aventures de Sir Nigaudinet et de Codindine. Histoire récente et véritable,,59,rw,con,nobodies,fict,pref,X,3
+1790s,1800,4,Y,Genlis,Les Mères rivales ou la Calomnie ,,220,rw,con,nobodies,fict,mis,L1s,3
+1790s,1800,5,Y,La Serrie,Les Arts et l'Amitié ou petit voyage sentimental du jeune de Lusignan,length,[5],,,,,,,
+1790s,1800,6,Y,Montalembert,Elise Duménil,,254,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1790s,1800,7,Y,Montjoie,Histoire de quatre Espagnols,,238,rw,con,nobodies,fact,pref,L1,3
+1790s,1800,8,Y,Pertusier,"Mes premières étourderies, ou quelques chapitres de ma vie en attendant mieux",,55,rw,con,nobodies,ind,,L2,1
+1790s,1800,9,Y,[Sanchamau],"L'Observateur sentimental, ou Correspondance anecdotique, politique, pittoresque et satyrique entre Mohamed Saady et quelques-uns de ses amis [...]",,32,rw,con,nobodies,fact,pref,O1,3
+1800s,1801,1,Y,anonyme,"Augusta, ou Tableau comparatif des moeurs françaises et des moeurs anglaises [...]",wrong year,,,,,,,,
+1800s,1801,2,Y,anonyme,Les Femmes ou les Aveux d'un vieillard,,44,rw,con,nobodies,ind,,L1,Emem
+1800s,1801,3,Y,Barbet du Bertrand,"Lettres de Mr de Fronsac, fils du duc de Richelieu, au chevalier Dumas, ou son histoire de quelques mois à la cour de Russie",,61,rw,con,nobodies,fact,title,L2,Emem
+1800s,1801,4,Y,[Giroust de Morency],"Rosalina, ou les Méprises de l'amour et de la nature",,56,rw,con,nobodies,fict,"pref, mis",L1,Emem
+1800s,1801,5,Y,[Le Sonnet],"L'Ecole du Jour, ou Toutes Vérités sont bonnes à dire",,55,rw,con,nobodies,fact based,pref,L1,3
+1800s,1801,6,Y,Maréchal,La Femme abbé,,28,rw,con,nobodies,fict,mis,L1,2-3P
+1800s,1801,7,Y,Oudard,Correspondance du Comte de Callidon avec Madame Francine B***,,29,rw,con,nobodies,fact,pref,L1s,2
+1800s,1801,8,Y,Rosny,"Le Péruvien à Paris, ouvrage critique, historique et moral",,97,rw,con,nobodies,fict,mis,O1f,3-3P
+1800s,1802,1,Y,anonyme,"Constantine, ou le Danger des préventions maternelles, par Mme A.M.A.C.L.",,88,rw,con,nobodies,fict,mis,L1s,3
+1800s,1802,2,Y,anonyme,"Les Deux Tartuffes, ou Cordélie, par A... D... D.L.M...",,173,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1802,3,Y,anonyme,Qu'est-ce que l'amour? Ou les erreurs d'un jeune soi-disant philosophe,,60,rw,con,nobodies,ind,,L1s,3
+1800s,1802,4,Y,Aymery,Les Dangers des Correspondances,,64,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1802,5,Y,[Castéra],Armand et Angéla,,123,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1802,6,Y,Cottin,Amélie Mansfield,,140,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1802,7,Y,Dusausoir,Lettres amoureuses d'Emilie et de Sainval,,10,rw,con,nobodies,fict,mis,L1,2
+1800s,1802,8,Y,[Gay],Laure d'Estell,,69,rw,con,nobodies,fact,pref,L1s,1-3P
+1800s,1802,9,Y,Jossenay,"Sancerre et Adèle, ou Le Mari coupable ",,55,rw,con,nobodies,fict,mis,L1s,3
+1800s,1802,10,Y,[Levacher de La Feutrie],"Minna, ou Lettres de deux jeunes Vénitiennes",,51,rw,con,nobodies,transposed,pref,L1s,2
+1800s,1802,11,Y,Montjoie,"Histoire de quatre Espagnols, par F.L.C. Montjoye, auteur du Manuscrit trouvé au mont Pausilype",wrong year,,,,,,,,
+1800s,1802,12,Y,Montjoie,Manuscrit trouvé au mont Pausilype,,238,rw,his,nobodies,fact,pref,L1,3
+1800s,1802,13,Y,Moreau,"Clara Hurt-Fort, ou la Victime des apparences",,70,rw,con,nobodies,fict,mis,L1s,3
+1800s,1802,14,Y,[Nougaret],"L'Amante coupable sans le savoir, ou les Amans criminels et vertueux",,62,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1802,15,Y,[Restif de la Bretonne],"Les Posthumes. Lettres reçues après la mort du mari par sa femme qui le croit à Florence, Par feu Cazotte",,230,rw,con,nobodies,fict,pref,D,2
+1800s,1802,16,Y,[Souza],"Charles et Marie, par l'auteur d'Adèle de Senange",not epistolary,,,,,,,,
+1800s,1802,17,Y,Staël,Delphine,,250,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1803,1,Y,anonyme,"Woodbury, ou le Nouvel Ariodant",,63,rw,con,nobodies,ind,,L1s,3
+1800s,1803,2,Y,[Aignan],"Théodore Sinclair, imité de l'anglais par le traducteur de La Famille de Mourtray, etc.",,34,rw,con,nobodies,fict,mis,L1s,3
+1800s,1803,3,Y,[Desbrosses],Mathilde de Puiseley,,28,rw,con,nobodies,fict,mis,L1s,1
+1800s,1803,4,Y,Dubois ,"Delphinette, ou le Mépris de l'opinion. Dédié à Madame de Staël-Holstein",,66,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1803,5,Y,Froberville,Sidner ou les dangers de l’imagination,,57,rw,con,nobodies,fict,mis,L1s,1-3P
+1800s,1803,6,Y,Lesuire,"La Paméla française, ou Lettres d'une jeune paysanne et d'un jeune ci-davant contenant leurs aventures",,142,rw,con,nobodies,fact,"pref, title",L1s,3
+1800s,1803,7,Y,[Polier de Bottens],Félicie et Florestine,,131,rw,con,nobodies,fict,mis,L1s,3
+1800s,1803,8,Y,"Sales, P.J. de (Florestan)",Sophie ou mon Voyage à Besançon,,46,rw,con,nobodies,fact based,pref,L1,Emem
+1800s,1804,1,Y,anonyme,"Edmond et Cécile, ou le Nouveau Werther, par P.V. V***",,43,rw,con,nobodies,fact,pref,L1s,3
+1800s,1804,2,Y,anonyme,Enfin un bon roman ou les Aveux de Sophie par J.R. R.,duplicate,,,,,,,,
+1800s,1804,3,Y,Droz,"Lina, ou les Enfants du ministre Albert",,,rw,con,nobodies,fact based,pref,L1s,3
+1800s,1804,4,Y,Krüdener,"Valérie, ou Lettres de Gustave de Linnar à Ernest de G**",,66,rw,con,nobodies,fact,pref,L1s,1
+1800s,1804,5,Y,[Ronden],"Henriette et Sophie, ou la Force des circonstances, par J.R. R. ",,76,rw,con,nobodies,fact,pref,L1s,3
+1800s,1804,6,Y,[Sénancour],Oberman. Lettres publiées par M. S*** [...],,129,rw,con,nobodies,fact,"pref, title",X,1
+1800s,1805,1,Y,[Argebouse],"Adolphe de Morni, ou Malheurs de deux jeunes époux",,75,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1805,2,Y,Bournon Malarmé,"Alicia, ou Le Cultivateur de Schaffhouse",,78,rw,con,nobodies,fict,mis,L1s,3-3P
+1800s,1805,3,Y,[Gallon],"Julie de St-Olmont, ou les Premières Illusions de l'amour, par Madame ***",,100,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1805,4,Y,Labenette ,"Les Dix-sept Mariages, ou la Colonie du bonheur par M. Labenette, auteur des Hommes démasqués aux Femmes",,70,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1806,1,Y,[Cazenove d'Arlens],Lettres de Clémence et d'Hippolite,,65,rw,con,nobodies,fict,"pref, mis",L1s,3
+1800s,1806,2,Y,Cottin,"Elisabeth, ou les Exilés de Sibérie ",not epistolary,,,,,,,,
+1800s,1806,3,Y,Cuisin,"Le Bâtard de Lovelace et la fille naturelle de la marquise de Merteuil, ou les Moeurs vengées, Nouvelles lettres, traduites de l'anglais",,181,rw,con,nobodies,fict,pref,L1s,3-3P
+1800s,1806,4,Y,[Le Prince de Beaumont],La Mère et la Fille ou la Religieuse par héroïsme par mme L.P. de B***,,49,rw,con,nobodies,fict,mis,L1s,2-3P
+1800s,1807,1,Y,anonyme,"La Famille de Nancy, ou Lettres d'Eliza Alberti",,71,rw,con,nobodies,fict,mis,L1s,3-3P
+1800s,1807,2,Y,anonyme,"Madame de Beaufort, ou Correspondance d'autrefois par M***",,23,rw,con,nobodies,fict,mis,L1s,3
+1800s,1807,3,Y,[Chemin],"Le Courrier russe, ou Cornélie de Justal",,65,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1807,4,Y,Garnier,"Grandpré et Saint-Charles, ou les Jeunes Gens du siècle",,56,rw,con,nobodies,fact iron,pref,L1s,3
+1800s,1807,5,Y,[Golowkin],"Alphonse de Lodève, par Mme la Comtesse de G***",,60,rw,con,nobodies,fict,mis,L1s,1
+1800s,1807,6,Y,Lambert,Praxède,,35,rw,con,nobodies,fact equ,pref,L1s,1
+1800s,1808,1,Y,anonyme,"L'Époux généreux, ou la Femme coupable et repentante par M…",unavailable,,,,,,,,
+1800s,1808,2,Y,anonyme,"Olivia Rutland, ou le Mariage inattendu. Traduit de l'anglais par L.M.B... y de G... e",,36,rw,con,nobodies,ind,,L1s,3
+1800s,1808,3,Y,[Grandmaison Van Esbecq],Les Époux philosophes au dix-huitième siècle par Mad. G... Van...,,70,rw,con,nobodies,fict,"pref, mis",L1,3
+1800s,1809,1,Y,anonyme,"Elvire, ou la Femme innocente et perdue",,77,rw,con,nobodies,ind,,L1s,3
+1800s,1809,2,Y,Beaufort d'Hautpoult,Clémentine ou l'Evelina française,,76,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1809,3,Y,Boudon,Lettres lithuaniennes [...],,53,rw,con,nobodies,fict,"pref, mis",X,2
+1800s,1809,4,Y,[Castéra],"Eléonore et Sophie, ou les Leçons de l'amitié",unavailable,,,,,,,,
+1800s,1810,1,Y,Beaufort d'Hautpoult,"Arindal, ou le Jeune peintre",,88,rw,con,nobodies,fict,mis,L1s,1
+1800s,1810,2,Y,Bournon Malarmé,"Mylord Clive, ou l'Etablissement en Suisse",,86,rw,con,nobodies,fict,"pref, mis",L1s,3-3P
+1800s,1810,3,Y,Duplessy,"Le Capitaine subtle, ou l'Intrigue dévoilée, traduit de l'anglais, par Mme D***, auteur du Mariage de la soeur du diable, etc",,146,rw,con,nobodies,fict,pref,L1s,3
+1800s,1810,4,Y,[Dubois],"Geneviève et Siffrid, correspondance inédie du VIIIe siècle par M.L.D.B. [...]",,44,rw,his,somebodies,,,L1,3
+1800s,1810,5,Y,[Métral],Eugénie de Nermon,,39,rw,con,nobodies,fact,pref,L1s,3

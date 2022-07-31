@@ -1,0 +1,3 @@
+## Figure 4.7 
+
+This one is not that problematic. The one thing that is important to note is that the data is plotted as a percentage of all real-world novels. This obscures the low number of datapoints that is the basis of the plot. For example, the movement of the "nouvelle galante" is 4%, 17%, 10.5%, 22%, 4.5% for the period from the 1670s to the 1710s. However, in terms of raw counts, these percentages only correspond to 3, 6, 8, 7, 1 such nouvelles. There is no exact correspondence between percenteges and counts here, because the count of other types of novels varies for each decade. 

@@ -10,27 +10,34 @@ from statsmodels.stats.proportion import proportion_confint as scf
 
 
 wdir = os.path.dirname(os.path.realpath(sys.argv[0]))
-datafile = join(wdir, "Data-France-web-post_CS-fig4-4.csv")
-aggregations = ["paige"]
+datafile = join(os.path.dirname(wdir), "Data-France-web-post_CS2.csv")
+#wdir = os.path.dirname(os.path.realpath(sys.argv[0]))
+#datafile = join(wdir, "Data-France-web-post_CS-fig4-4.csv")
+aggregations = ["paige44"]
+
 
 def read_data(datafile): 
     with open(datafile, "r", encoding="utf8") as infile:
         data = pd.read_csv(infile, sep=",")
         data.fillna(0, inplace=True)
+        data = data[["paige44", "subtitle1", "words"]]
         print(data.head())
         return data
 
 
 def group_data(data, agg):
-    grouped = data.groupby(by=["subtitles", agg]).median()
-    grouped.drop("year", axis=1, inplace=True)
+    grouped = data.groupby(by=["subtitle1", agg]).median()
+    #grouped.drop("year", axis=1, inplace=True)
     #print(grouped)
     return grouped
 
 
-def plot_data_paige(grouped, filename): 
-    untitled = grouped.query("subtitles == 'unsubtitled'").loc["unsubtitled",:]
-    untitled.drop("1751-1830", axis=0, inplace=True)
+def plot_data(grouped, filename): 
+    untitled = grouped.query("subtitle1 == 'unsubtitled'").loc["unsubtitled",:]
+    untitled.drop("1751-1780", axis=0, inplace=True)
+    untitled.drop("1781-1800", axis=0, inplace=True)
+    untitled.drop("1801-1820", axis=0, inplace=True)
+    untitled.drop("1821-1840", axis=0, inplace=True)
     #print(untitled)
     labels = list(untitled.index)
     #print(labels)
@@ -43,16 +50,22 @@ def plot_data_paige(grouped, filename):
     #    ax.text(x[i]+0.0, y[i]+1.0, str(int(y[i])), size=8)
     ax.plot(x, y, "k--", label="untitled")
 
-    histoire = grouped.query("subtitles == 'histoire'").loc["histoire",:]
-    histoire.drop("1751-1830", axis=0, inplace=True)
+    histoire = grouped.query("subtitle1 == 'histoire'").loc["histoire",:]
+    histoire.drop("1751-1780", axis=0, inplace=True)
+    histoire.drop("1781-1800", axis=0, inplace=True)
+    histoire.drop("1801-1820", axis=0, inplace=True)
+    histoire.drop("1821-1840", axis=0, inplace=True)
     y = histoire["words"]
     #for i in range(len(labels)):
     #    ax.text(x[i]+0.0, y[i]+0.0, str(int(y[i])), size=8)
     ax.plot(x, y, color="grey", linestyle="-", label="histoire")
 
-    nouvelle = grouped.query("subtitles == 'nouvelle'").loc["nouvelle",:]
-    nouvelle.drop("1751-1830", axis=0, inplace=True)
-    missing = pd.DataFrame([["1601-1620", np.nan], ["1621-1640", np.nan]], columns=["paige", "words"]).set_index("paige")
+    nouvelle = grouped.query("subtitle1 == 'nouvelle'").loc["nouvelle",:]
+    nouvelle.drop("1751-1780", axis=0, inplace=True)
+    nouvelle.drop("1781-1800", axis=0, inplace=True)
+    nouvelle.drop("1801-1820", axis=0, inplace=True)
+    nouvelle.drop("1821-1840", axis=0, inplace=True)
+    missing = pd.DataFrame([["1601-1620", np.nan], ["1621-1640", np.nan]], columns=["paige44", "words"]).set_index("paige44")
     #nouvelle.drop("1641-1660", axis=0, inplace=True)
     #missing = pd.DataFrame([["1601-1620", np.nan], ["1621-1640", np.nan], ["1641-1660", np.nan]], columns=["paige", "words"]).set_index("paige")
     nouvelle = pd.concat([missing, nouvelle])
@@ -81,8 +94,7 @@ def main(datafile, aggregations):
     for agg in aggregations: 
         grouped = group_data(data, agg)
         filename = join(wdir, "fig_4-4_replication-lineplot-"+agg+".svg")
-        plot_data_paige(grouped, filename)
-    #    confints = get_confints(grouped)
+        plot_data(grouped, filename)
 
 main(datafile, aggregations)
 

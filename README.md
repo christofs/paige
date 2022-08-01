@@ -4,7 +4,7 @@ This repository contains data, code and graphs that attempt to either replicate 
 
 The current page provides a summary of the analysis, with a selection of graphs and some comments. Anyone interested in the finer details is invited to look at the data, code and graphs available in the respective folders (one for each graph analysed). 
 
-All graphs as well as the text presented here are licensed with a Creative Commons Zero licence. If you use them, please reference this repository as follows: Christof Schöch, "Replication and re-analysis of _Technologies of the Novel_", Github.com, 2022, https://github.com/christofs/paige. 
+All graphs as well as the text presented here are licensed with a [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) licence. If you use them, please reference this repository as follows: Christof Schöch, "Replication and re-analysis of _Technologies of the Novel_", Github.com, 2022, https://github.com/christofs/paige. 
 
 ## Chapter 3
 

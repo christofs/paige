@@ -67,7 +67,7 @@ def plot_data(data, filename):
         elinewidth=6,
         label="proportion with confidence interval")
     eb[-1][0].set_linestyle((1,(1,1)))
-    plt.ylim(0,1)
+    plt.ylim(0,1.1)
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
     ax.set_title('Proportion of titled insets over time')

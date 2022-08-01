@@ -4,6 +4,16 @@ This repository contains data, code and graphs that attempt to either replicate 
 
 The current page provides a summary of the analysis, with a selection of graphs and some comments. Anyone interested in the finer details is invited to look at the data, code and graphs available in the respective folders (one for each graph analysed). 
 
+## Chapter 3
+
+### Figure 3.3 
+
+A variant visualization of figure 3.3: 
+
+![](fig_3-3/fig3-3_errorplot-decade.png)
+
+This variant shows the mean values for each decade (squares), like Paige's original graph. In addition, it shows the confidence interval for these values, based on the number of datapoints available to calculate each mean (vertical bars). In addition, the number of datapoints for each decade is also mentioned explicitly (n). Finally, the average value across all decades shown here is displayed as a reference point (horizontal line). 
+
 ## Chapter 4 
 
 ### Figure 4.4 

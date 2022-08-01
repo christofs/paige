@@ -12,7 +12,9 @@ Replication of figure 4.4:
 
 ![Replication of figure 4.4](fig_4-4/fig_4-4_replication-lineplot-paige44.svg)
 
-An alternative visualisation of the data relevant to figure 4.4:  
+Note that there are two additional datapoints in this plot, for the nouvelle of the period 1641-1660. These are not included in Paige's original plot.
+
+The following is an alternative visualisation of the data relevant to figure 4.4:  
 
 ![Re-analysis of figure 4.4](fig_4-4/fig_4-4_box%2Bscatter-score.svg)
 

@@ -10,6 +10,11 @@ All graphs as well as the text presented here are licensed with a [Creative Comm
 
 ### Figure 3.3 
 
+Replication of figure 3.3. 
+
+![](fig_3-3/fig_3-3_replication.svg)
+
+
 A variant visualization of figure 3.3: 
 
 ![](fig_3-3/fig_3-3_errorplot-decade.svg)

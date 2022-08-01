@@ -4,9 +4,15 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from statsmodels.stats.proportion import proportion_confint as scf
+import os
+import sys
+from os.path import join
 
+wdir = os.path.dirname(os.path.realpath(sys.argv[0]))
+#datafile = join(os.path.dirname(wdir), "Data-France-web-post_CS2.csv")
+datafile = join(wdir, "Data-France-web-post_CS_fig3-3_mod1.csv")
+#print(datafile)
 
-datafile = "Data-France-web-post_CS_fig3-3_mod1.csv"
 aggregations = ["decade", "scores", "halfcents"]
 
 
@@ -50,17 +56,18 @@ def plot_data(data, filename):
     fig,ax = plt.subplots(figsize=(8, 6))
     x = np.arange(len(labels))
     y = data["proportion"]
-    plt.errorbar(x, y, 
+    eb = plt.errorbar(x, y, 
         yerr=errors, 
         xerr=None, 
-        fmt="s", 
-        mfc="DarkSlateBlue", 
+        fmt="o", 
+        mfc="black", 
         mew=0, 
-        markersize=10, 
-        ecolor="Teal", 
-        elinewidth=4, 
+        markersize=12, 
+        ecolor="grey", 
+        elinewidth=6,
         label="proportion with confidence interval")
-    plt.ylim(0,1)
+    eb[-1][0].set_linestyle((1,(1,1)))
+    plt.ylim(0,1.1)
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
     ax.set_title('Proportion of titled insets over time')
@@ -68,7 +75,7 @@ def plot_data(data, filename):
     ax.set_xlabel('Time interval')
     for i in range(len(labels)):
         ax.text(x[i]+0.15, y[i]-0.02, "n="+str(int(ns[i])), size=8)
-    ax.plot(x, avgs, label="average proportion across all data")
+    ax.plot(x, avgs, label="average proportion across all data", color="grey", linewidth=3, dashes=(1,1))
     ax.yaxis.grid(True)
     plt.legend(loc="lower center")
     plt.tight_layout()
@@ -76,13 +83,13 @@ def plot_data(data, filename):
 
 
 
-def main(datafile, aggregations):
+def main(datafile, wdir, aggregations):
     data = read_data(datafile)
     for agg in aggregations: 
-        filename = "fig3-3_errorplot-"+agg+".png"
+        filename = join(wdir, "fig_3-3_errorplot-"+agg+".svg")
         grouped = group_data(data, agg)
         confints = get_confints(grouped)
         plot_data(confints, filename)
 
-main(datafile, aggregations)
+main(datafile, wdir, aggregations)
 

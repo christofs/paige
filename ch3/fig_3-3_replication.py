@@ -33,7 +33,7 @@ def group_data(data):
 
 
 def plot_data(data, filename): 
-    fig,ax = plt.subplots(figsize=(12,6))
+    fig,ax = plt.subplots(figsize=(16,10))
     data.plot(kind='bar', stacked=True, color=["black", "grey"])
     plt.title('Figure 3.3: Titled insets in Type 1 novels (replication)')
     plt.ylabel('Production of Type 1 inset novels')

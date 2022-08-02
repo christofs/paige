@@ -48,6 +48,7 @@ def plot_data(data, filename):
     plt.title("Overview of the dataset used")
     plt.ylabel("Length of the novels (in thousands of words)")
     plt.savefig(filename, dpi=300)
+    print("Figure saved.")
 
 
 

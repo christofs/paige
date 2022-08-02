@@ -53,6 +53,8 @@ This plot is not really problematic. The one thing that is important to note is 
 
 ### Figure A.2
 
+In the book, figure A.2 is actually a table that contains more information than just the number of novels per decade, but also information on which years where sampled from and the error rate associated with the sample from each decade. 
+
 ![Overview](annex/dataset-decades.svg)
 
 The above figure shows the number of novels per decade. 

@@ -40,7 +40,7 @@ def prepare_data(data):
 def plot_data(data, filename): 
     fig,ax = plt.subplots(figsize=(16,10))
     sns.scatterplot(data=data, x="year", y="words", color="DarkSlateGrey", legend=False, markers="x", s=16, alpha=0.6)
-    ax.text(0, 345, "(NB.: Eight novels with >500k words, out of 1311 in total, were removed.)", style='italic', fontsize=6)
+    fig.text(0.13, 0.85, "(NB.: Eight novels with >500k words, out of 1311 in total, were removed.)", style='italic', fontsize=8)
     loc = plticker.MultipleLocator(base=10)
     axes = sns.lineplot(data=data.loc["year":])
     axes.xaxis.set_major_locator(loc)

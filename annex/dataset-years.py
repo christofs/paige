@@ -30,7 +30,7 @@ def filter_data(data):
 
 
 def prepare_data(data):
-    prepared = data.groupby(by="year").sum()#.reset_index()
+    prepared = data.groupby(by="year").sum()
     prepared = prepared["count"].reindex(range(1600,1820+1), fill_value=0)
     prepared = prepared.reset_index()
     # Check and return
@@ -41,7 +41,7 @@ def prepare_data(data):
 
 def plot_data(data, filename): 
     fig,ax = plt.subplots(figsize=(16,10))
-    sns.barplot(data=data, x="year", y="count", color="black")
+    sns.barplot(data=data, x="year", y="count", color="DarkSlateGrey")
     loc = plticker.MultipleLocator(base=10)
     axes = sns.lineplot(data=data.loc["year":])
     axes.xaxis.set_major_locator(loc)
@@ -55,7 +55,7 @@ def plot_data(data, filename):
 
 def main(datafile):
     data = read_data(datafile)
-    filename = join(wdir, "dataset2.svg")
+    filename = join(wdir, "dataset-years.svg")
     filtered = filter_data(data)
     prepared = prepare_data(filtered)
     plot_data(prepared, filename)

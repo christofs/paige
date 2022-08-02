@@ -30,7 +30,7 @@ def filter_data(data):
 
 
 def prepare_data(data):
-    prepared = data.drop(data[data["words"] > 1000].index)
+    prepared = data.drop(data[data["words"] > 500].index)
     # Check and return
     # print(prepared.head())
     print(prepared.shape)
@@ -39,8 +39,8 @@ def prepare_data(data):
 
 def plot_data(data, filename): 
     fig,ax = plt.subplots(figsize=(16,10))
-    sns.scatterplot(data=data, x="year", y="words", color="black", legend=False, markers="x", s=16, alpha=0.6)
-    ax.text(0, 345, "(NB.: Four novels with <1000k words were removed.)", style='italic', fontsize=6)
+    sns.scatterplot(data=data, x="year", y="words", color="DarkSlateGrey", legend=False, markers="x", s=16, alpha=0.6)
+    ax.text(0, 345, "(NB.: Eight novels with >500k words, out of 1311 in total, were removed.)", style='italic', fontsize=6)
     loc = plticker.MultipleLocator(base=10)
     axes = sns.lineplot(data=data.loc["year":])
     axes.xaxis.set_major_locator(loc)
@@ -53,7 +53,7 @@ def plot_data(data, filename):
 
 def main(datafile):
     data = read_data(datafile)
-    filename = join(wdir, "dataset1.svg")
+    filename = join(wdir, "dataset-years+words.svg")
     filtered = filter_data(data)
     prepared = prepare_data(filtered)
     plot_data(prepared, filename)

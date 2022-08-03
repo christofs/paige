@@ -18,16 +18,19 @@ Replication of figure 3.3.
 
 ![](ch3/fig_3-3_replication.svg)
 
+The issue with this graph is that it does not show the uncertainty asscociated with the proportions that are visible. The bar for the 1600s is in fact, as Paige explains in the book, only based on one single datapoint. However, the bar for the 1610s is based only on 3 datapoints, and the bars for the 1680s and 1690s are only based on 2 and 4 datapoints, respectively. The other bars have a bit more data, but there are only 118 novels with type 1 insets in the dataset for the period chosen here. 
 
-A variant visualization of figure 3.3: 
+Therefore, it may make sense to consider a variant visualization of figure 3.3 that takes these small samples and the uncertainty associated with them into account: 
 
 ![](ch3/fig_3-3_errorplot-decade.svg)
 
-This variant shows the mean values for each decade (squares), like Paige's original graph. In addition, it shows the confidence interval for these values, based on the number of datapoints available to calculate each mean (vertical bars). In addition, the number of datapoints for each decade is also mentioned explicitly (n). Finally, the average value across all decades shown here is displayed as a reference point (horizontal line). 
+This variant shows the mean proportion of titled inset novels for each decade (black squares), like Paige's original graph. But it also shows the confidence interval for these values, based on the number of datapoints available to calculate each mean (vertical bars). In addition, the number of datapoints for each decade is also mentioned explicitly (n). Finally, the average value across all decades shown here is displayed as a reference point (horizontal line). 
+
+What becomes clear is that there is so much uncertainty associated with the proportions here, that it is almost impossible to see a trend in the data. The earliest two decades and the latest two decades should really be discounted, leaving us with a bell-shaped development of the means that, however, still shows largely overlapping confidence intervals. What looks like a bell could just as well have been a straight line, by this account. 
 
 ![](ch3/fig_3-3_errorplot-score.svg)
 
-It makes sense that when the temporal granularity increases, the confidence intervals get narrower, meaning there is less uncertainty about the data. This is the benefit of using 20-year slices instead of the 10-year slices used above. 
+It makes sense that when the temporal granularity increases, the confidence intervals get narrower, meaning there is less uncertainty about the data. This is the benefit of using 20-year slices instead of the 10-year slices used above. There is a good likelihood that there is really an increase in titled insets from the period 1621-1640 to the period 1661-1680, followed by a fall in titled insets when going into the period 1681-1700. 
 
 
 ## Chapter 4 

@@ -90,9 +90,9 @@ def plot_data(data, corr, filename):
     plt.legend(loc="lower center", ncol=2)
     plt.text(6.2, 68, "invented and\nindeterminate novels ↘", fontsize=12)
     plt.text(9.0, 40, "↖ third-person \n nobody novels", fontsize=12)
-    totalstext = "overall number of nobody novels:\n " + "                 ".join([str(item) for item in data["totals"]])
-    plt.text(-0.1, 4, str(totalstext), fontsize=10)
-    plt.text(-0.1, 95, "(NB.: Pearson's correlation coefficient between type 1 and type 2 novels: " + str(corr) + ".)", fontsize=10)
+    totalstext = "Number of all nobody novels per decade:\n " + "                 ".join([str(item) for item in data["totals"]])
+    plt.text(-0.1, 2, str(totalstext), fontsize=10)
+    plt.text(-0.1, 95, "(NB.: Pearson's r = " + str(corr) + ".)", fontsize=10)
     plt.savefig(filename, dpi=300)
 
 

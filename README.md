@@ -49,6 +49,18 @@ Replication of figure 4.7:
 
 This plot is not really problematic. The one thing that is important to note is that the data is plotted as a percentage of all real-world novels. This obscures the low number of datapoints that is the basis of the plot. For example, the movement of the "nouvelle galante" is 4%, 17%, 10.5%, 22%, 4.5% for the period from the 1670s to the 1710s. However, in terms of raw counts, these percentages only correspond to 3, 6, 8, 7, 1 such nouvelles, making the movement or development we see here rather sensitive to a bias from the sampling procedure. (Note that there is no exact correspondence between percentages and counts here, because the count of other types of novels varies for each decade.)
 
+## Chapter 8 
+
+### Figure 8.1
+
+The following is a replication of the plot, with some added information. 
+
+ch8/fig_8-1_replication.svg
+
+The plot tracks perfectly with the original plot, so the data selected for each line appears to be correct. Two pieces of information have been added: the number of nobody novels for each decade and the Pearson's correlation coefficient between the counts of the two types of novels. 
+
+Note that at r = 0.38, the correlation is moderately positive. Paige describes it as "while not perfect, [it] is detectible" (p. 138). However, note that the way the two groups of novels are defined, there is quite a bit of overlap between them. This is appreciable by the fact that the percentages for the two kinds of novels add up to more than 100%, at least starting in the 1790s. From this fact alone, we can expect some degree of correlation. 
+
 ## Annex
 
 ### Figure A.2

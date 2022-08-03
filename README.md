@@ -25,6 +25,11 @@ A variant visualization of figure 3.3:
 
 This variant shows the mean values for each decade (squares), like Paige's original graph. In addition, it shows the confidence interval for these values, based on the number of datapoints available to calculate each mean (vertical bars). In addition, the number of datapoints for each decade is also mentioned explicitly (n). Finally, the average value across all decades shown here is displayed as a reference point (horizontal line). 
 
+![](ch3/fig_3-3_errorplot-score.svg)
+
+It makes sense that when the temporal granularity increases, the confidence intervals get narrower, meaning there is less uncertainty about the data. This is the benefit of using 20-year slices instead of the 10-year slices used above. 
+
+
 ## Chapter 4 
 
 ### Figure 4.4 

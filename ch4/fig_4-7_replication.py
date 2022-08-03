@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 wdir = os.path.dirname(os.path.realpath(sys.argv[0]))
-datafile = join(os.path.dirname(wdir), "Data-France-web-post_CS2.csv")
+datafile = join(os.path.dirname(wdir), "Data-France-web-post-CS.csv")
 
 
 def read_data(datafile): 

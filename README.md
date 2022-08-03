@@ -55,7 +55,7 @@ This plot is not really problematic. The one thing that is important to note is 
 
 The following is a replication of the plot, with some added information. 
 
-ch8/fig_8-1_replication.svg
+![Overview](ch8/fig_8-1_replication.svg)
 
 The plot tracks perfectly with the original plot, so the data selected for each line appears to be correct. Two pieces of information have been added: the number of nobody novels for each decade and the Pearson's correlation coefficient between the counts of the two types of novels. 
 

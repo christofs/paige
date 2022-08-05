@@ -73,7 +73,7 @@ However, note that the way the two groups of novels are defined, there is quite 
 
 Just for the sake of argument, it is of course possible to focus on those novels alone that do not overlap, focusing on novels with an invented or indeterminate thruth posture that are not in the third person, and all novels in the third person that have neither an invented and indeterminate truth posture. The figure below shows the result: 
 
-![Overview](ch8/fig_8-1_reanalysis.svg)
+![Overview](ch8/fig_8-1_reanalysis1.svg)
 
 Now, any correlation has disappeared; Person's r is strongly negative (at -0.8) and this is also very clear from the way the lines move in opposite directions at almost every step of the way. 
 

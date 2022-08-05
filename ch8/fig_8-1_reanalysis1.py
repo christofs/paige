@@ -104,7 +104,7 @@ def plot_data(data, corr, filename):
 
 def main(datafile):
     data = read_data(datafile)
-    filename = join(wdir, "fig_8-1_reanalysis.svg")
+    filename = join(wdir, "fig_8-1_reanalysis1.svg")
     filtered = filter_data(data)
     prepared = prepare_data(filtered)
     corr = calculate_correlation(prepared)

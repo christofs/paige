@@ -106,7 +106,7 @@ The above figure shows the number of novels per decade.
 
 ![Overview](annex/dataset-years.svg)
 
-The above figure shows the number of novels per year. The downside of the sampling procedure becomes clearly visible: in decades with a large novel production, only a small number of years are used to draw novels from. 
+The above figure shows the number of novels per year. The downside of the sampling procedure becomes clearly visible: in decades with a large novel production, only a small number of years are used to draw novels from; from these few years, however, a lot of novels are selected! 
 
 ![Overview](annex/dataset-years+words.svg)
 

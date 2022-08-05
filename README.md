@@ -85,7 +85,7 @@ This one can be replicated easily.
 
 However, the complexity of the situation is again obscured by only showing the means in a lineplot, rather than showing the distribution of novel lengths in each decade. This is shown in the following figure: 
 
-![8.2](ch8/fig_8-2_replication.svg)
+![8.2](ch8/fig_8-2_box+scatter.svg)
 
 Here, the considerable range of the novel lengths and the overlap of typical values between each decade becomes clearly visible. That is not to say there isn't a real trend, but it adds considerable nuance to the lineplot. 
 

@@ -77,6 +77,23 @@ Just for the sake of argument, it is of course possible to focus on those novels
 
 Now, any correlation has disappeared; Person's r is strongly negative (at -0.8) and this is also very clear from the way the lines move in opposite directions at almost every step of the way. 
 
+### Figure 8.2
+
+This one can be replicated easily. 
+
+![8.2](ch8/fig_8-2_replication.svg)
+
+However, the complexity of the situation is again obscured by only showing the means in a lineplot, rather than showing the distribution of novel lengths in each decade. This is shown in the following figure: 
+
+![8.2](ch8/fig_8-2_replication.svg)
+
+Here, the considerable range of the novel lengths and the overlap of typical values between each decade becomes clearly visible. That is not to say there isn't a real trend, but it adds considerable nuance to the lineplot. 
+
+### Figure 8.3
+
+![8.3](ch8/fig_8-3_replication.svg)
+
+
 ## Annex
 
 ### Figure A.2

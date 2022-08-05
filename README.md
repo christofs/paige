@@ -61,13 +61,21 @@ This plot is not really problematic. The one thing that is important to note is 
 
 ### Figure 8.1
 
-The following is a replication of the plot, with some added information. 
+The following is a replication of the plot, with some added information. It shows two groups of novels: those with a a truth posture that is either invented or indeterminate, and those which are written in the third person. 
 
 ![Overview](ch8/fig_8-1_replication.svg)
 
-The plot tracks perfectly with the original plot, so the data selected for each line appears to be correct. Two pieces of information have been added: the number of nobody novels for each decade and the Pearson's correlation coefficient between the counts of the two types of novels. 
+The plot tracks perfectly with the original plot, so the data selected for each line appears to be correct. 
 
-Note that at r = 0.38, the correlation is moderately positive. Paige describes it as "while not perfect, [it] is detectible" (p. 138). However, note that the way the two groups of novels are defined, there is quite a bit of overlap between them. This is appreciable by the fact that the percentages for the two kinds of novels add up to more than 100%, at least starting in the 1790s. From this fact alone, we can expect some degree of correlation. 
+Two pieces of information have been added: the number of nobody novels for each decade and the Pearson's correlation coefficient between the counts of the two types of novels. Note that at r = 0.38, the correlation is moderately positive. Paige may or may not have quantified this correlation; he describes it as "while not perfect, [it] is detectible" (p. 138). 
+
+However, note that the way the two groups of novels are defined, there is quite a bit of potential for overlap between them, and in a sense, the correlation simply quantifies this degree of overlap. That is of course part of Paige's point. (The fact that the percentages for the two kinds of novels add up to more than 100%, at least starting in the 1790s, shows that there must be overlap. From this fact alone, we can expect some degree of correlation.) 
+
+Just for the sake of argument, it is of course possible to focus on those novels alone that do not overlap, focusing on novels with an invented or indeterminate thruth posture that are not in the third person, and all novels in the third person that have neither an invented and indeterminate truth posture. The figure below shows the result: 
+
+![Overview](ch8/fig_8-1_reanalysis.svg)
+
+Now, any correlation has disappeared; Person's r is strongly negative (at -0.8) and this is also very clear from the way the lines move in opposite directions at almost every step of the way. 
 
 ## Annex
 

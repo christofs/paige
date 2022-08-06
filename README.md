@@ -73,9 +73,26 @@ However, note that the way the two groups of novels are defined, there is quite 
 
 Just for the sake of argument, it is of course possible to focus on those novels alone that do not overlap, focusing on novels with an invented or indeterminate thruth posture that are not in the third person, and all novels in the third person that have neither an invented and indeterminate truth posture. The figure below shows the result: 
 
-![Overview](ch8/fig_8-1_reanalysis.svg)
+![Overview](ch8/fig_8-1_reanalysis1.svg)
 
 Now, any correlation has disappeared; Person's r is strongly negative (at -0.8) and this is also very clear from the way the lines move in opposite directions at almost every step of the way. 
+
+### Figure 8.2
+
+This one can be replicated easily. 
+
+![8.2](ch8/fig_8-2_replication.svg)
+
+However, the complexity of the situation is again obscured by only showing the means in a lineplot, rather than showing the distribution of novel lengths in each decade. This is shown in the following figure: 
+
+![8.2](ch8/fig_8-2_box+scatter.svg)
+
+Here, the considerable range of the novel lengths and the overlap of typical values between each decade becomes clearly visible. That is not to say there isn't a real trend, but it adds considerable nuance to the lineplot. 
+
+### Figure 8.3
+
+![8.3](ch8/fig_8-3_replication.svg)
+
 
 ## Annex
 
@@ -89,7 +106,7 @@ The above figure shows the number of novels per decade.
 
 ![Overview](annex/dataset-years.svg)
 
-The above figure shows the number of novels per year. The downside of the sampling procedure becomes clearly visible: in decades with a large novel production, only a small number of years are used to draw novels from. 
+The above figure shows the number of novels per year. The downside of the sampling procedure becomes clearly visible: in decades with a large novel production, only a small number of years are used to draw novels from; from these few years, however, a lot of novels are selected! 
 
 ![Overview](annex/dataset-years+words.svg)
 

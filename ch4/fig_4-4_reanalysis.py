@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 wdir = os.path.dirname(os.path.realpath(sys.argv[0]))
-datafile = join(os.path.dirname(wdir), "Data-France-web-post_CS2.csv")
+datafile = join(os.path.dirname(wdir), "Data-France-web-post-CS.csv")
 
 
 def read_data(datafile): 
@@ -20,21 +20,23 @@ def read_data(datafile):
 
 
 def prepare_data(data, target):
+    data = data[["score", "halfcentury", "subtitle1", "words"]]
     # Filter out novels with more than 1000k words (1 outlier) == optional!!
-    if target == "score":
-        data.drop(data[data["words"] > 1000].index, inplace=True)
+    #if target == "score":
+    #    print("items removed:", len(data[data["words"] > 1000].index))
+    #    data = data.drop(data[data["words"] > 1000].index)
     # Filter out novels based on their genre subtitle
     del_rows = ["other", "conte", "memoires", "anecdote", "chronique", "roman"]
     for item in del_rows: 
-        data.drop(data[data["subtitle1"] == item].index, inplace=True)
+        data = data.drop(data[data["subtitle1"] == item].index)
     # Filter data based on time of publication, depending on level of analysis
     if target == "score": 
         del_rows = ["1741-1760", "1761-1780", "1781-1800", "1801-1820", "1821-1840"]
         for item in del_rows: 
-            data.drop(data[data["score"] == item].index, inplace=True)
+            data = data.drop(data[data["score"] == item].index)
     elif target == "halfcentury": 
-        data.drop(data[data["halfcentury"] == "1801-1850"].index, inplace=True)
-    print(data.head())
+        data = data.drop(data[data["halfcentury"] == "1801-1850"].index)
+    #print(data.head())
     return data
 
 
@@ -49,9 +51,19 @@ def make_snsplot(prepared, filename, target):
     plt.tight_layout()
     ax.legend(scatterpoints=0)
     if target == "score": 
-        ax.text(-0.4, 345, "(NB.: One outlier with 1000k words was removed. Due to the low number of datapoints,\nthis strongly lowers the median of the boxplot for 'histoire' in the period 1641-1660.)", style='italic', fontsize=6)
+        ax.text(-0.4, 345, "(NB.: Four novels with >1000k words were removed. Due to the low number of datapoints,\nthis strongly lowers the median of the boxplot for 'histoire' in the period 1641-1660.)", style='italic', fontsize=6)
     sns.move_legend(ax, "upper right")
     plt.savefig(filename, dpi=300)
+
+
+def test_significance(prepared, target): 
+    if target == "score": 
+        from scipy.stats import kstest as kst
+        unsub1620s = list(prepared[(prepared["score"] == "1621-1640") & (prepared["subtitle1"] == "unsubtitled")]["words"])
+        unsub1640s = list(prepared[(prepared["score"] == "1641-1660") & (prepared["subtitle1"] == "unsubtitled")]["words"])
+        #print(unsub1620s)
+        results = kst(unsub1620s, unsub1640s)
+        print(results)
 
 
 def main(datafile):
@@ -60,6 +72,7 @@ def main(datafile):
         filename = join(wdir, "fig_4-4_box+scatter-"+target+".svg")
         data = read_data(datafile)
         prepared = prepare_data(data, target)
+        test_significance(prepared, target)
         make_snsplot(prepared, filename, target)
     
 

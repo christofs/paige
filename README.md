@@ -47,7 +47,9 @@ The following is an alternative visualisation of the data relevant to figure 4.4
 
 ![Re-analysis of figure 4.4](ch4/fig_4-4_box%2Bscatter-score.svg)
 
-This graph shows the same data as the original figure from the book, but does so using boxplots and scattered datapoints, in order to better show (a) the number of datapoints each median value is based on, and (b) the spread and considerable overlap of the datapoints. This is a way of better keeping the uncertainty and limitations of the data visible in the graph and avoids projecting more certainty than there really is in the data. 
+This graph shows the same data as the original figure from the book, but does so using boxplots and scattered datapoints, in order to better show (a) the number of datapoints each median value is based on, and (b) the spread and considerable overlap of the datapoints. This is a way of better keeping the uncertainty and limitations of the data visible in the graph and avoids projecting more certainty than there really is in the data. (Four datapoints of novels with more than 1 million words have been removed from the plot for better readability. This removal strongly affects the barplot for the histoires of 1641-1660, in particular, as there are only very few datapoints.) 
+
+There appears to be a clear increase of median novel length for both unsubtitled novels and histoires, between the period 1621-1640 and 1641-1660, especially in the original lineplot. If that's not a peak, what is, one may ask. However, checking for the statistical difference between the two distributions of lengths, for each type of novel between these two time periods, shows rather high p-values (calculated on all novels, including the ones removed from the plot): 0.059 for histoires and 0.039 for unsubtitled novels. This means that the overlap between the two distributions is so large, and the size of the sample so limited, that this difference do not in fact suggest a true difference in the means. There's a good chance that there is no peak at all!   
 
 ### Figure 4.7 
 

@@ -22,9 +22,9 @@ def read_data(datafile):
 def prepare_data(data, target):
     data = data[["score", "halfcentury", "subtitle1", "words"]]
     # Filter out novels with more than 1000k words (1 outlier) == optional!!
-    #if target == "score":
-    #    print("items removed:", len(data[data["words"] > 1000].index))
-    #    data = data.drop(data[data["words"] > 1000].index)
+    if target == "score":
+        print("items removed:", len(data[data["words"] > 1000].index))
+        data = data.drop(data[data["words"] > 1000].index)
     # Filter out novels based on their genre subtitle
     del_rows = ["other", "conte", "memoires", "anecdote", "chronique", "roman"]
     for item in del_rows: 

@@ -87,7 +87,7 @@ However, the complexity of the situation is again obscured by only showing the m
 
 ![8.2](ch8/fig_8-2_box+scatter.svg)
 
-Here, the considerable range of the novel lengths and the overlap of typical values between each decade becomes clearly visible. That is not to say there isn't a real trend, but it adds considerable nuance to the lineplot. 
+Here, the considerable range of the novel lengths and the overlap of typical values between each decade becomes clearly visible. That is not to say there isn't a real trend, but it adds considerable nuance to the lineplot. In fact, when testing for a statistical difference of the means of the length distribution for the 1770s vs. that for the 1820s, the Kolmogorov-Smirnov-test indicates a p-value of 0.012, confirming that there is indeed a significant increase of novels lengths in words over the period. 
 
 ### Figure 8.3
 

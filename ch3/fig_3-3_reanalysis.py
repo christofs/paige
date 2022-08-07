@@ -86,7 +86,7 @@ def plot_data(data, step, avg_prop_titled, filename):
     labels = data[step]
     errors = [data["confint_lower"], data["confint_upper"]]
     ns = data["total"]
-    avgs = [avg_prop_titled] * len(labels)
+    avgs = [(avg_prop_titled*100)] * len(labels)
     fig,ax = plt.subplots(figsize=(16, 10))
     x = np.arange(len(labels))
     y = data["proportion"]

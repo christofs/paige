@@ -45,15 +45,25 @@ def prepare_data(data, step):
     prepared = prepared.groupby(by=step).sum()
     prepared["total"] = prepared["titled"] + prepared["untitled"]        
     prepared["proportion"] = prepared["titled"] / prepared["total"]*100
-    #prepared["titled"] = prepared["titled"] / prepared["total"] * 100
-    #prepared["untitled"] = prepared["untitled"] / prepared["total"] * 100
-    #prepared = prepared.drop("total", axis=1) # Keep for annotation and confints in re-analysis.
     prepared.reset_index(inplace=True)
+
+    # Average
+    total_titled = np.sum(prepared["titled"])
+    total_untitled = np.sum(prepared["untitled"])
+    total_all = total_titled + total_untitled
+    print(total_titled, total_untitled, total_all)
+    avg_prop_titled =  total_titled / total_all
+    print("Average across all data:", avg_prop_titled)
 
     # Check and return
     #print(prepared)
     print("prepared", prepared.shape)
-    return prepared
+    return prepared, avg_prop_titled
+
+
+def check_correlation(prepared, step): 
+    rho = np.corrcoef(prepared["proportion"], prepared["total"])
+    print("Pearson's R for the relation between proportion and total number of inset novels for", step, "is:", rho)
 
 
 def get_confints(grouped): 
@@ -72,11 +82,11 @@ def get_confints(grouped):
     return confints
 
 
-def plot_data(data, step, filename): 
+def plot_data(data, step, avg_prop_titled, filename): 
     labels = data[step]
     errors = [data["confint_lower"], data["confint_upper"]]
     ns = data["total"]
-    avgs = [np.mean(data["proportion"])] * len(labels)
+    avgs = [avg_prop_titled] * len(labels)
     fig,ax = plt.subplots(figsize=(16, 10))
     x = np.arange(len(labels))
     y = data["proportion"]
@@ -113,9 +123,10 @@ def main(datafile, steps, wdir):
     for step in steps: 
         filename = join(wdir, "fig_3-3_errorplot-"+step+".svg")
         filtered = filter_data(data, step)
-        prepared = prepare_data(filtered, step)
+        prepared, avg_prop_titled = prepare_data(filtered, step)
         confints = get_confints(prepared)
-        plot_data(confints, step, filename)
+        check_correlation(prepared, step)
+        plot_data(confints, step, avg_prop_titled, filename)
 
 main(datafile, steps, wdir)
 

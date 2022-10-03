@@ -30,7 +30,7 @@ What becomes clear is that there is so much uncertainty associated with the prop
 
 ![](ch3/fig_3-3_errorplot-score.svg)
 
-It makes sense that when the temporal granularity increases, the confidence intervals get narrower, meaning there is less uncertainty about the data. This is the benefit of using 20-year slices instead of the 10-year slices used above. There is a good likelihood that there is really an increase in titled insets from the period 1621-1640 to the period 1661-1680, followed by a fall in titled insets when going into the period 1681-1700. 
+It makes sense that when the temporal granularity increases, the confidence intervals get narrower, meaning there is less uncertainty about the data. This is the benefit of using 20-year slices instead of the 10-year slices used above. There is a good likelihood that there is really an increase in titled insets from the period 1621-1640 to the period 1641-1660, followed by a fall in titled insets when going into the period 1661-1680. 
 
 
 ## Chapter 4 

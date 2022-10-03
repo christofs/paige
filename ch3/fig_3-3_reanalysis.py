@@ -104,7 +104,7 @@ def plot_data(data, step, avg_prop_titled, filename):
     plt.ylim(0,110)
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
-    ax.set_title("Proportion of titled insets over time", fontsize=18)
+    ax.set_title("Re-analysis of Figure 3.3: Titled insets in Type 1 novels", fontsize=16)
     ax.set_ylabel("Proportion of titled insets", fontsize=14)
     ax.set_xlabel("Time interval: "+step, fontsize=14)
     for i in range(len(labels)):

@@ -58,7 +58,7 @@ def plot_data(data, filename):
     fig,ax = plt.subplots(figsize=(16,10))
     plt.bar(data["decade"], data["titled"], width=0.5, label="titled insets", color="black")
     plt.bar(data["decade"], data["untitled"], width=0.5, label="untitled insets", color="grey", bottom=data["titled"])
-    plt.title('Figure 3.3: Titled insets in Type 1 novels (replication)', fontsize=16)
+    plt.title('Replication of Figure 3.3: Titled insets in Type 1 novels', fontsize=16)
     plt.ylabel('Production of Type 1 inset novels', fontsize=14)
     plt.xticks(rotation=0, fontsize=14)
     plt.legend(loc="lower center", ncol=2, fontsize=14)

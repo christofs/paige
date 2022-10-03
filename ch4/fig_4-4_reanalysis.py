@@ -61,9 +61,13 @@ def test_significance(prepared, target):
         from scipy.stats import kstest as kst
         unsub1620s = list(prepared[(prepared["score"] == "1621-1640") & (prepared["subtitle1"] == "unsubtitled")]["words"])
         unsub1640s = list(prepared[(prepared["score"] == "1641-1660") & (prepared["subtitle1"] == "unsubtitled")]["words"])
-        #print(unsub1620s)
-        results = kst(unsub1620s, unsub1640s)
-        print(results)
+        histnouv1660s = list(prepared[(prepared["score"] == "1661-1680") & ((prepared["subtitle1"] == "histoire") | (prepared["subtitle1"]== "nouvelle"))]["words"])
+        unsub1660s = list(prepared[(prepared["score"] == "1661-1680") & (prepared["subtitle1"] == "unsubtitled")]["words"])
+        print(histnouv1660s)
+        test1 = kst(unsub1620s, unsub1640s)
+        print("Comparison: unsub1620s vs. unsubtitled 1640s:", test1)
+        test2 = kst(histnouv1660s, unsub1660s)
+        print("Comparison: histnouv1660s vs. unsubtitled 1660s:", test2)
 
 
 def main(datafile):

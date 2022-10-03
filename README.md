@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/519745700.svg)](https://zenodo.org/badge/latestdoi/519745700)
 
-# Replication and re-analysis of _Technologies of the Novel_
+# Replication and re-analysis of Nicholas Paige's _Technologies of the Novel_
 
 This repository contains data, code and graphs that attempt to either replicate analyses provided by Nicholas D. Paige in his book _Technologies of the novel_ (2021), or attempt to re-analyse the data provided by the author (https://doi.org/10.5281/zenodo.3939065) in order to provide a more detailed and/or nuanced look at the data. 
 
@@ -8,7 +8,7 @@ The current page provides a summary of the analysis, with a selection of graphs 
 
 Most analyses are based on the dataset present in the top-level folder, which contains the data provided by Paige for French, but reduced to just those novels that he did not exclude from his analysis, and augmented with some additional columns specifying various time slices, for convenience. 
 
-All graphs as well as the text presented here are licensed with a [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) licence. This means attribution is not mandatory. However, if you use them and can find a suitable place to attribute the source, please reference this repository as follows: Christof Schöch, "Replication and re-analysis of _Technologies of the Novel_", Github.com, 2022, https://github.com/christofs/paige, DOI: https://doi.org/10.5281/zenodo.6951647.  
+All graphs as well as the text presented here are licensed with a [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) licence. This means attribution is not mandatory. However, if you use them and can find a suitable place to attribute the source, please reference this repository as follows: Christof Schöch, "Replication and re-analysis of Nicholas Paige's _Technologies of the Novel_", Github.com, 2022, https://github.com/christofs/paige, DOI: https://doi.org/10.5281/zenodo.6951647.  
 
 ## Chapter 3
 

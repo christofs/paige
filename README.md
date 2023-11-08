@@ -4,6 +4,8 @@
 
 This repository contains data, code and graphs that attempt to either replicate analyses provided by Nicholas D. Paige in his book _Technologies of the novel_ (2021), or attempt to re-analyse the data provided by the author (https://doi.org/10.5281/zenodo.3939065) in order to provide a more detailed and/or nuanced look at the data. 
 
+This work was performed in the context of a review of Paige's book. See: Christof Schöch (2023): “Review of: Nicholas D. Paige, Technologies of the Novel, 2021”. In: _H-France Review_ 23(22). – URL: https://h-france.net/vol23reviews/vol23no22schoch.pdf. 
+
 The current page provides a summary of the analysis, with a selection of graphs and some comments. Anyone interested in the finer details is invited to look at the data, code and graphs available in the respective folders (one for each chapter). 
 
 Most analyses are based on the dataset present in the top-level folder, which contains the data provided by Paige for French, but reduced to just those novels that he did not exclude from his analysis, and augmented with some additional columns specifying various time slices, for convenience. 
